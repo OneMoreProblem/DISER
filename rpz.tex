@@ -1,0 +1,70 @@
+%% Преамбула TeX-файла
+
+% 1. Стиль и язык
+\documentclass[utf8x]{G7-32} % Стиль (по умолчанию будет 14pt)
+\usepackage[T2A]{fontenc}
+\usepackage[russian]{babel}
+\usepackage{setspace,lipsum}
+\PassOptionsToPackage{shorthands=off}{babel}
+\usepackage{bm}
+
+\usepackage{mathtools}
+\usepackage{caption}
+\usepackage{subcaption}
+
+\usepackage{pgfplots}
+\pgfplotsset{compat=newest}
+\usepackage{filecontents}
+\usepackage{animate}
+\usepackage{graphics}
+\usepackage{color}
+\def\alert#1{\textcolor{red}{#1}}
+
+\usepgfplotslibrary{dateplot}
+% Остальные стандартные настройки убраны в preamble.inc.tex.
+\include{preamble.inc}
+
+% Настройки листингов.
+\include{listings.inc}
+
+% Полезные макросы листингов.
+\include{macros.inc}
+
+\begin{document}
+
+\include{Title}
+
+\frontmatter % выключает нумерацию ВСЕГО; здесь начинаются ненумерованные главы: реферат, введение, глоссарий, сокращения и прочее.
+
+% Команды \breakingbeforechapters и \nonbreakingbeforechapters
+% управляют разрывом страницы перед главами.
+% По-умолчанию страница разрывается.
+
+% \nobreakingbeforechapters
+% \breakingbeforechapters
+
+\tableofcontents
+
+\include{intro}
+% \include{intro.tex}
+%
+\mainmatter % это включает нумерацию глав и секций в документе ниже
+%
+\include{Theory}
+\include{Simulation}
+%
+%\backmatter %% Здесь заканчивается нумерованная часть документа и начинаются ссылки и
+%            %% заключение
+\include{Conclusion}
+
+\include{81-biblio}
+%\include{81-biblio.tex}
+
+%\appendix   % Тут идут приложения
+
+\end{document}
+
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: t
+%%% End:
