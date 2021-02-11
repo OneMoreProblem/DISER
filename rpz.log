@@ -1,16 +1,16 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.9.28)  22 JAN 2021 12:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.9.28)  2 FEB 2021 18:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**d:/git/GOSTSCW/rpz.tex
-(d:/git/GOSTSCW/rpz.tex
+**d:/git/DISER/rpz.tex
+(d:/git/DISER/rpz.tex
 LaTeX2e <2020-02-02> patch level 5
-L3 programming layer <2020-09-24> (d:/git/GOSTSCW/G7-32.cls
+L3 programming layer <2020-09-24> (d:/git/DISER/G7-32.cls
 Document Class: G7-32 2003/07/01 v1.0 Non Standard LaTeX document class
-(d:/git/GOSTSCW/G2-105.sty
+(d:/git/DISER/G2-105.sty
 Package: G2-105 2003/07/07 v1.00 General reqs. GOST 2.105-95
- (d:/git/GOSTSCW/GostBase.clo (c:/texlive/2020/texmf-dist/tex/latex/extsizes/size14.clo
+ (d:/git/DISER/GostBase.clo (c:/texlive/2020/texmf-dist/tex/latex/extsizes/size14.clo
 File: size14.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
 ))
 \c@totalpage=\count168
@@ -437,7 +437,7 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layouthoffset=\dimen160
 \Gm@layoutvoffset=\dimen161
 \Gm@dimlist=\toks29
-) (d:/git/GOSTSCW/G7-32.sty
+) (d:/git/DISER/G7-32.sty
 Package: G7-32 2003/07/07 v1.00 Titles for GOST 7.32-2001
 )) (c:/texlive/2020/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
@@ -850,7 +850,7 @@ File: pgfcalendar.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \@input{preamble.inc.aux}
 \openout2 = `preamble.inc.aux'.
 
-(d:/git/GOSTSCW/preamble.inc.tex (c:/texlive/2020/texmf-dist/tex/latex/hyperref/hyperref.sty
+(d:/git/DISER/preamble.inc.tex (c:/texlive/2020/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
  (c:/texlive/2020/texmf-dist/tex/generic/pdfescape/pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
@@ -1027,7 +1027,7 @@ Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
 \@input{listings.inc.aux}
 \openout2 = `listings.inc.aux'.
 
-(d:/git/GOSTSCW/listings.inc.tex (c:/texlive/2020/texmf-dist/tex/latex/listings/listings.sty
+(d:/git/DISER/listings.inc.tex (c:/texlive/2020/texmf-dist/tex/latex/listings/listings.sty
 \lst@mode=\count350
 \lst@gtempboxa=\box90
 \lst@token=\toks51
@@ -1053,7 +1053,7 @@ Package: listings 2020/03/24 1.8d (Carsten Heinz)
 \@input{macros.inc.aux}
 \openout2 = `macros.inc.aux'.
 
-(d:/git/GOSTSCW/macros.inc.tex) (d:/git/GOSTSCW/rpz.aux (d:/git/GOSTSCW/Title.aux) (d:/git/GOSTSCW/intro.aux) (d:/git/GOSTSCW/Theory.aux) (d:/git/GOSTSCW/Simulation.aux) (d:/git/GOSTSCW/Conclusion.aux) (d:/git/GOSTSCW/81-biblio.aux))
+(d:/git/DISER/macros.inc.tex) (d:/git/DISER/rpz.aux (d:/git/DISER/Title.aux) (d:/git/DISER/intro.aux) (d:/git/DISER/Theory.aux) (d:/git/DISER/Simulation.aux) (d:/git/DISER/Conclusion.aux) (d:/git/DISER/81-biblio.aux))
 \openout1 = `rpz.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
@@ -1157,14 +1157,14 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 33.
 LaTeX Info: Redefining \pageref on input line 33.
 LaTeX Info: Redefining \nameref on input line 33.
- (d:/git/GOSTSCW/rpz.out) (d:/git/GOSTSCW/rpz.out)
+ (d:/git/DISER/rpz.out) (d:/git/DISER/rpz.out)
 \@outlinefile=\write4
 \openout4 = `rpz.out'.
 
 \c@lstlisting=\count365
 \openout2 = `Title.aux'.
 
- (d:/git/GOSTSCW/Title.tex
+ (d:/git/DISER/Title.tex
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: <default>
@@ -1209,7 +1209,7 @@ File: uni-4.def 2013/05/13 UCS: Unicode data U+0400..U+04FF
 
 
 
-{c:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]) (d:/git/GOSTSCW/rpz.toc<<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
+{c:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]) (d:/git/DISER/rpz.toc<<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
 LaTeX Font Info:    Trying to load font information for U+msa on input line 2.
  (c:/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -1271,279 +1271,271 @@ LaTeX Font Warning: Font shape `PU/cmr/m/up' undefined
 ]
 \openout2 = `intro.aux'.
 
- (d:/git/GOSTSCW/intro.tex [3
-
-
-] [4] [5] (c:/texlive/2020/texmf-dist/tex/latex/ucs/data/uni-32.def
-File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
-) [6] (c:/texlive/2020/texmf-dist/tex/latex/ucs/data/uni-0.def
+ (d:/git/DISER/intro.tex (c:/texlive/2020/texmf-dist/tex/latex/ucs/data/uni-0.def
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
-) [7]
-Underfull \hbox (badness 1303) in paragraph at lines 143--144
-[]\T2A/cmr/m/n/14.4 2018 БИ^^?ГАР^^?МО^^?НИ^^?ЧЕ^^?СКИЕ АТ^^?ТРАК^^?ТО^^?РЫ ВНУТ^^?РЕН^^?НИХ
- []
+) [3
 
-[8]
-Underfull \hbox (badness 1112) in paragraph at lines 163--164
-[]\T2A/cmr/m/n/14.4 Development of openfoam solver for compressible viscous flows
- []
 
-) [9]
+]
+<Figs/marshl_jukov.jpg, id=161, 642.4pt x 407.5225pt>
+File: Figs/marshl_jukov.jpg Graphic file (type jpg)
+<use Figs/marshl_jukov.jpg>
+Package pdftex.def Info: Figs/marshl_jukov.jpg  used on input line 21.
+(pdftex.def)             Requested size: 321.19922pt x 203.76074pt.
+ [4] [5] (c:/texlive/2020/texmf-dist/tex/latex/ucs/data/uni-32.def
+File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
+)
+<Figs/Forces.png, id=196, 483.30562pt x 268.75406pt>
+File: Figs/Forces.png Graphic file (type png)
+<use Figs/Forces.png>
+Package pdftex.def Info: Figs/Forces.png  used on input line 92.
+(pdftex.def)             Requested size: 386.64502pt x 215.00354pt.
+<Figs/FRAM.jpg, id=198, 168.63pt x 207.6558pt>
+File: Figs/FRAM.jpg Graphic file (type jpg)
+<use Figs/FRAM.jpg>
+Package pdftex.def Info: Figs/FRAM.jpg  used on input line 99.
+(pdftex.def)             Requested size: 455.24411pt x 560.61478pt.
+<Figs/800px-Fridtjof_Nansen.jpg, id=199, 96.36pt x 112.0185pt>
+File: Figs/800px-Fridtjof_Nansen.jpg Graphic file (type jpg)
+<use Figs/800px-Fridtjof_Nansen.jpg>
+Package pdftex.def Info: Figs/800px-Fridtjof_Nansen.jpg  used on input line 106.
+(pdftex.def)             Requested size: 240.89935pt x 280.0455pt.
+ [6] [7 <d:/git/DISER/Figs/marshl_jukov.jpg> <d:/git/DISER/Figs/Forces.png>] [8 <d:/git/DISER/Figs/FRAM.jpg>] [9]) [10] [11 <d:/git/DISER/Figs/800px-Fridtjof_Nansen.jpg>]
 \openout2 = `Theory.aux'.
 
- (d:/git/GOSTSCW/Theory.tex [10
+ (d:/git/DISER/Theory.tex
+
+LaTeX Font Warning: Command \large invalid in math mode on input line 11.
+
+LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <17.28> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 13.
+LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <12> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 13.
+LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <17.28> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 13.
+LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 13.
+LaTeX Font Info:    Calculating math sizes for size <> on input line 13.
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <> not available
+(Font)              size <5> substituted on input line 13.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <0.7> not available
+(Font)              size <5> substituted on input line 13.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <0.5> not available
+(Font)              size <5> substituted on input line 13.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <> not available
+(Font)              size <5> substituted on input line 13.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <0.7> not available
+(Font)              size <5> substituted on input line 13.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <0.5> not available
+(Font)              size <5> substituted on input line 13.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <> not available
+(Font)              size <5> substituted on input line 13.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <0.7> not available
+(Font)              size <5> substituted on input line 13.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <0.5> not available
+(Font)              size <5> substituted on input line 13.
+
+LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 13.
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <> not available
+(Font)              size <5> substituted on input line 13.
+
+LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <0.7> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 13.
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <0.7> not available
+(Font)              size <5> substituted on input line 13.
+
+LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <0.5> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 13.
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <0.5> not available
+(Font)              size <5> substituted on input line 13.
+
+LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 13.
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <> not available
+(Font)              size <5> substituted on input line 13.
+
+LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <0.7> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 13.
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <0.7> not available
+(Font)              size <5> substituted on input line 13.
+
+LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <0.5> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 13.
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <0.5> not available
+(Font)              size <5> substituted on input line 13.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <> not available
+(Font)              size <5> substituted on input line 13.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <0.7> not available
+(Font)              size <5> substituted on input line 13.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <0.5> not available
+(Font)              size <5> substituted on input line 13.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <> not available
+(Font)              size <5> substituted on input line 13.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <0.7> not available
+(Font)              size <5> substituted on input line 13.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <0.5> not available
+(Font)              size <5> substituted on input line 13.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <> not available
+(Font)              size <5> substituted on input line 13.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <0.7> not available
+(Font)              size <5> substituted on input line 13.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <0.5> not available
+(Font)              size <5> substituted on input line 13.
+
+LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <14.4> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 14.
+LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <14.4> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 14.
+
+LaTeX Font Warning: Command \large invalid in math mode on input line 16.
+
+
+LaTeX Font Warning: Command \large invalid in math mode on input line 20.
+
+[12
 
 
 
 ]
-<Figs/marshl_jukov.jpg, id=206, 642.4pt x 407.5225pt>
-File: Figs/marshl_jukov.jpg Graphic file (type jpg)
-<use Figs/marshl_jukov.jpg>
-Package pdftex.def Info: Figs/marshl_jukov.jpg  used on input line 20.
-(pdftex.def)             Requested size: 321.19922pt x 203.76074pt.
- [11 <d:/git/GOSTSCW/Figs/marshl_jukov.jpg>] [12]
-<Figs/Forces.png, id=241, 483.30562pt x 268.75406pt>
-File: Figs/Forces.png Graphic file (type png)
-<use Figs/Forces.png>
-Package pdftex.def Info: Figs/Forces.png  used on input line 91.
-(pdftex.def)             Requested size: 386.64502pt x 215.00354pt.
-<Figs/FRAM.jpg, id=243, 168.63pt x 207.6558pt>
-File: Figs/FRAM.jpg Graphic file (type jpg)
-<use Figs/FRAM.jpg>
-Package pdftex.def Info: Figs/FRAM.jpg  used on input line 98.
-(pdftex.def)             Requested size: 455.24411pt x 560.61478pt.
-<Figs/800px-Fridtjof_Nansen.jpg, id=244, 96.36pt x 112.0185pt>
-File: Figs/800px-Fridtjof_Nansen.jpg Graphic file (type jpg)
-<use Figs/800px-Fridtjof_Nansen.jpg>
-Package pdftex.def Info: Figs/800px-Fridtjof_Nansen.jpg  used on input line 105.
-(pdftex.def)             Requested size: 240.89935pt x 280.0455pt.
- [13 <d:/git/GOSTSCW/Figs/Forces.png>] [14 <d:/git/GOSTSCW/Figs/FRAM.jpg>] [15] [16]
-
-LaTeX Font Warning: Command \large invalid in math mode on input line 133.
-
-LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <17.28> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 135.
-LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <12> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 135.
-LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <17.28> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 135.
-LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 135.
-LaTeX Font Info:    Calculating math sizes for size <> on input line 135.
-
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <> not available
-(Font)              size <5> substituted on input line 135.
-
-
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <0.7> not available
-(Font)              size <5> substituted on input line 135.
-
-
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <0.5> not available
-(Font)              size <5> substituted on input line 135.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <> not available
-(Font)              size <5> substituted on input line 135.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <0.7> not available
-(Font)              size <5> substituted on input line 135.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <0.5> not available
-(Font)              size <5> substituted on input line 135.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <> not available
-(Font)              size <5> substituted on input line 135.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <0.7> not available
-(Font)              size <5> substituted on input line 135.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <0.5> not available
-(Font)              size <5> substituted on input line 135.
-
-LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 135.
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <> not available
-(Font)              size <5> substituted on input line 135.
-
-LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <0.7> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 135.
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <0.7> not available
-(Font)              size <5> substituted on input line 135.
-
-LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <0.5> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 135.
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <0.5> not available
-(Font)              size <5> substituted on input line 135.
-
-LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 135.
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <> not available
-(Font)              size <5> substituted on input line 135.
-
-LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <0.7> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 135.
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <0.7> not available
-(Font)              size <5> substituted on input line 135.
-
-LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <0.5> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 135.
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <0.5> not available
-(Font)              size <5> substituted on input line 135.
-
-
-LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <> not available
-(Font)              size <5> substituted on input line 135.
-
-
-LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <0.7> not available
-(Font)              size <5> substituted on input line 135.
-
-
-LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <0.5> not available
-(Font)              size <5> substituted on input line 135.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <> not available
-(Font)              size <5> substituted on input line 135.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <0.7> not available
-(Font)              size <5> substituted on input line 135.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <0.5> not available
-(Font)              size <5> substituted on input line 135.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <> not available
-(Font)              size <5> substituted on input line 135.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <0.7> not available
-(Font)              size <5> substituted on input line 135.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <0.5> not available
-(Font)              size <5> substituted on input line 135.
-
-LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <14.4> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 136.
-LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <14.4> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 136.
-
-LaTeX Font Warning: Command \large invalid in math mode on input line 138.
-
-
-LaTeX Font Warning: Command \large invalid in math mode on input line 142.
-
-[17]
-Overfull \hbox (4.36151pt too wide) detected at line 166
+Overfull \hbox (4.36151pt too wide) detected at line 44
 [][][] \OT1/cmr/m/n/14.4 + \OMS/cmsy/m/n/14.4 r ^^A [] ^^@ r ^^A \OML/cmm/m/it/14.4 ^^W [] \OMS/cmsy/m/n/14.4 ^^@ r ^^A [] \OT1/cmr/m/n/14.4 = \OMS/cmsy/m/n/14.4 ^^@[]r[] \OT1/cmr/m/n/14.4 + []\OML/cmm/m/it/14.4 ;
  []
 
-[18] [19]
+[13] [14]
 
-LaTeX Warning: Command \cyri invalid in math mode on input line 217.
+LaTeX Warning: Command \cyri invalid in math mode on input line 95.
 
 Missing character: There is no и in font cmr12!
 
-Underfull \hbox (badness 4913) in paragraph at lines 237--238
+Underfull \hbox (badness 4913) in paragraph at lines 115--116
 []\T2A/cmr/m/n/14.4 В даль^^?ней^^?шем пред^^?по^^?ла^^?га^^?ет^^?ся, что воз^^?му^^?ще^^?ния плот^^?но^^?сти
  []
 
-[20]
+[15]
 
-LaTeX Warning: Command \cyri invalid in math mode on input line 281.
-
-
-LaTeX Warning: Command \cyrl invalid in math mode on input line 281.
+LaTeX Warning: Command \cyri invalid in math mode on input line 159.
 
 
-LaTeX Warning: Command \cyri invalid in math mode on input line 281.
+LaTeX Warning: Command \cyrl invalid in math mode on input line 159.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 159.
 
 Missing character: There is no и in font cmr12!
 Missing character: There is no л in font cmr12!
 Missing character: There is no и in font cmr12!
-[21]
-<Figs/Experement_Erm.png, id=390, 411.78844pt x 456.95718pt>
+[16]
+<Figs/Experement_Erm.png, id=358, 411.78844pt x 456.95718pt>
 File: Figs/Experement_Erm.png Graphic file (type png)
 <use Figs/Experement_Erm.png>
-Package pdftex.def Info: Figs/Experement_Erm.png  used on input line 295.
+Package pdftex.def Info: Figs/Experement_Erm.png  used on input line 173.
 (pdftex.def)             Requested size: 205.8937pt x 228.47803pt.
-<Figs/angle_of_reflection.png, id=393, 921.4425pt x 400.49625pt>
+<Figs/angle_of_reflection.png, id=361, 921.4425pt x 400.49625pt>
 File: Figs/angle_of_reflection.png Graphic file (type png)
 <use Figs/angle_of_reflection.png>
-Package pdftex.def Info: Figs/angle_of_reflection.png  used on input line 309.
+Package pdftex.def Info: Figs/angle_of_reflection.png  used on input line 187.
 (pdftex.def)             Requested size: 460.72012pt x 200.24763pt.
 
-Overfull \hbox (5.47601pt too wide) in paragraph at lines 309--310
+Overfull \hbox (5.47601pt too wide) in paragraph at lines 187--188
  [][] 
  []
 
-<Figs/RayTracing.png, id=396, 351.56343pt x 234.8775pt>
+[17 <d:/git/DISER/Figs/Experement_Erm.png (PNG copy)>]
+<Figs/RayTracing.png, id=371, 351.56343pt x 234.8775pt>
 File: Figs/RayTracing.png Graphic file (type png)
 <use Figs/RayTracing.png>
-Package pdftex.def Info: Figs/RayTracing.png  used on input line 318.
+Package pdftex.def Info: Figs/RayTracing.png  used on input line 196.
 (pdftex.def)             Requested size: 281.25111pt x 187.90225pt.
-[22] [23 <d:/git/GOSTSCW/Figs/800px-Fridtjof_Nansen.jpg> <d:/git/GOSTSCW/Figs/Experement_Erm.png (PNG copy)>] [24 <d:/git/GOSTSCW/Figs/angle_of_reflection.png> <d:/git/GOSTSCW/Figs/RayTracing.png (PNG copy)>]
-Overfull \hbox (19.88243pt too wide) in paragraph at lines 368--369
+
+Overfull \hbox (19.88243pt too wide) in paragraph at lines 246--247
  [][] 
  []
 
 
-Overfull \hbox (16.63246pt too wide) in paragraph at lines 388--389
+Overfull \hbox (16.63246pt too wide) in paragraph at lines 266--267
  [][] 
  []
 
-<Figs/RayTr923x1455.jpeg, id=418, 454.69875pt x 313.17pt>
+[18] [19 <d:/git/DISER/Figs/angle_of_reflection.png> <d:/git/DISER/Figs/RayTracing.png (PNG copy)>]
+<Figs/RayTr923x1455.jpeg, id=389, 454.69875pt x 313.17pt>
 File: Figs/RayTr923x1455.jpeg Graphic file (type jpg)
 <use Figs/RayTr923x1455.jpeg>
-Package pdftex.def Info: Figs/RayTr923x1455.jpeg  used on input line 400.
+Package pdftex.def Info: Figs/RayTr923x1455.jpeg  used on input line 278.
 (pdftex.def)             Requested size: 204.61253pt x 140.92519pt.
 LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <8> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 401.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 279.
 LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <6> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 401.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 279.
 LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <8> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 401.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 279.
 LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <6> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 401.
-<Figs/RTdtau.png, id=419, 340.27126pt x 325.215pt>
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 279.
+<Figs/RTdtau.png, id=390, 340.27126pt x 325.215pt>
 File: Figs/RTdtau.png Graphic file (type png)
 <use Figs/RTdtau.png>
-Package pdftex.def Info: Figs/RTdtau.png  used on input line 405.
+Package pdftex.def Info: Figs/RTdtau.png  used on input line 283.
 (pdftex.def)             Requested size: 153.12064pt x 146.3454pt.
-) [25] [26 <d:/git/GOSTSCW/Figs/RayTr923x1455.jpeg> <d:/git/GOSTSCW/Figs/RTdtau.png>]
+) [20] [21 <d:/git/DISER/Figs/RayTr923x1455.jpeg> <d:/git/DISER/Figs/RTdtau.png>]
 \openout2 = `Simulation.aux'.
 
- (d:/git/GOSTSCW/Simulation.tex [27
+ (d:/git/DISER/Simulation.tex [22
 
 
 
-] [28] [29]
-<pics/H40L60N1ap02dp20w0p63/2D36x36DiagramH40L60N1ap02dp20w0p63Vyn06179.png, id=471, 1027.84pt x 702.625pt>
+] [23] [24]
+<pics/H40L60N1ap02dp20w0p63/2D36x36DiagramH40L60N1ap02dp20w0p63Vyn06179.png, id=438, 1027.84pt x 702.625pt>
 File: pics/H40L60N1ap02dp20w0p63/2D36x36DiagramH40L60N1ap02dp20w0p63Vyn06179.png Graphic file (type png)
 <use pics/H40L60N1ap02dp20w0p63/2D36x36DiagramH40L60N1ap02dp20w0p63Vyn06179.png>
 Package pdftex.def Info: pics/H40L60N1ap02dp20w0p63/2D36x36DiagramH40L60N1ap02dp20w0p63Vyn06179.png  used on input line 105.
 (pdftex.def)             Requested size: 154.16934pt x 105.38919pt.
-<pics/H40L60N1ap02dp20w0p63/TFspectrumX356Y112N1024.png, id=472, 2331.46031pt x 1578.64781pt>
+<pics/H40L60N1ap02dp20w0p63/TFspectrumX356Y112N1024.png, id=439, 2331.46031pt x 1578.64781pt>
 File: pics/H40L60N1ap02dp20w0p63/TFspectrumX356Y112N1024.png Graphic file (type png)
 <use pics/H40L60N1ap02dp20w0p63/TFspectrumX356Y112N1024.png>
 Package pdftex.def Info: pics/H40L60N1ap02dp20w0p63/TFspectrumX356Y112N1024.png  used on input line 109.
 (pdftex.def)             Requested size: 163.21889pt x 110.51663pt.
-<pics/H40L60N1ap02dp20w0p63/vyX355662118341Y112748618745t1000.png, id=473, 433.62pt x 289.08pt>
+<pics/H40L60N1ap02dp20w0p63/vyX355662118341Y112748618745t1000.png, id=440, 433.62pt x 289.08pt>
 File: pics/H40L60N1ap02dp20w0p63/vyX355662118341Y112748618745t1000.png Graphic file (type png)
 <use pics/H40L60N1ap02dp20w0p63/vyX355662118341Y112748618745t1000.png>
 Package pdftex.def Info: pics/H40L60N1ap02dp20w0p63/vyX355662118341Y112748618745t1000.png  used on input line 113.
@@ -1553,13 +1545,13 @@ Overfull \hbox (11.951pt too wide) in paragraph at lines 113--114
 [][] 
  []
 
-<pics/H40L60N1ap02dp20w0p63/2D36x36DiagramH40L60N1ap02dp20w0p63totKEnonDim.png, id=474, 462.528pt x 346.896pt>
+<pics/H40L60N1ap02dp20w0p63/2D36x36DiagramH40L60N1ap02dp20w0p63totKEnonDim.png, id=441, 462.528pt x 346.896pt>
 File: pics/H40L60N1ap02dp20w0p63/2D36x36DiagramH40L60N1ap02dp20w0p63totKEnonDim.png Graphic file (type png)
 <use pics/H40L60N1ap02dp20w0p63/2D36x36DiagramH40L60N1ap02dp20w0p63totKEnonDim.png>
 Package pdftex.def Info: pics/H40L60N1ap02dp20w0p63/2D36x36DiagramH40L60N1ap02dp20w0p63totKEnonDim.png  used on input line 117.
 (pdftex.def)             Requested size: 185.0079pt x 138.75594pt.
-[30 <d:/git/GOSTSCW/pics/H40L60N1ap02dp20w0p63/2D36x36DiagramH40L60N1ap02dp20w0p63Vyn06179.png> <d:/git/GOSTSCW/pics/H40L60N1ap02dp20w0p63/TFspectrumX356Y112N1024.png> <d:/git/GOSTSCW/pics/H40L60N1ap02dp20w0p63/vyX355662118341Y112748618745t1000.png> <d:/git/GOSTSCW/pics/H40L60N1ap02dp20w0p63/2D36x36DiagramH40L60N1ap02dp20w0p63totKEnonDim.png>] [31] [32]
-<Figs/Attr200s.png, id=517, 501.37312pt x 333.49594pt>
+[25 <d:/git/DISER/pics/H40L60N1ap02dp20w0p63/2D36x36DiagramH40L60N1ap02dp20w0p63Vyn06179.png> <d:/git/DISER/pics/H40L60N1ap02dp20w0p63/TFspectrumX356Y112N1024.png> <d:/git/DISER/pics/H40L60N1ap02dp20w0p63/vyX355662118341Y112748618745t1000.png> <d:/git/DISER/pics/H40L60N1ap02dp20w0p63/2D36x36DiagramH40L60N1ap02dp20w0p63totKEnonDim.png>] [26] [27]
+<Figs/Attr200s.png, id=485, 501.37312pt x 333.49594pt>
 File: Figs/Attr200s.png Graphic file (type png)
 <use Figs/Attr200s.png>
 Package pdftex.def Info: Figs/Attr200s.png  used on input line 200.
@@ -1583,17 +1575,17 @@ Overfull \hbox (14.5924pt too wide) in paragraph at lines 228--229
  [][] 
  []
 
-[33 <d:/git/GOSTSCW/Figs/Attr200s.png (PNG copy)>] [34] [35]
+[28 <d:/git/DISER/Figs/Attr200s.png (PNG copy)>] [29] [30]
 Underfull \hbox (badness 3557) in paragraph at lines 309--310
 []\T2A/cmr/m/n/14.4 Метод Гаусса-^^?Остро^^?град^^?ско^^?го, вы^^?чис^^?ле^^?ние про^^?из^^?вод^^?ных осу^^?
  []
 
 Missing character: There is no ` in font nullfont!
-[36]
+[31]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[37] [38]
+[32] [33]
 LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 424.
  (c:/texlive/2020/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
 File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
@@ -1607,12 +1599,12 @@ File: koi8-r.def 2014/10/28 v1.0d Input encoding file
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[39] [40]
+[34] [35]
 Underfull \hbox (badness 1308) in paragraph at lines 543--544
 \T2A/cmr/m/n/14.4 срав^^?ни^^?ва^^?ют^^?ся с те^^?ми же ком^^?по^^?нен^^?та^^?ми по^^?лу^^?чен^^?ны^^?ми при по^^?мо^^?щи
  []
 
-[41]
+[36]
 PGFPlots: reading {PISOVSQHD/PISOUxVSY100Re20.csv}
 PGFPlots: reading {PISOVSQHD/PISOUxVSY100Re40.csv}
 PGFPlots: reading {PISOVSQHD/QHDUxVSY100Re20.csv}
@@ -1673,27 +1665,27 @@ PGFPlots: reading {CSV/AllTau.csv}
 PGFPlots: reading {CSV/AllTau.csv}
 PGFPlots: reading {CSV/AllTau.csv}
 
-LaTeX Warning: Reference `fig:backwardStepScratch' on page 42 undefined on input line 728.
+LaTeX Warning: Reference `fig:backwardStepScratch' on page 37 undefined on input line 728.
 
-[42]
+[37]
 
-LaTeX Warning: Text page 43 contains only floats.
+LaTeX Warning: Text page 38 contains only floats.
 
-[43] [44]
+[38] [39]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<pics/Re100.png, id=699, 1039.63406pt x 262.73157pt>
+<pics/Re100.png, id=666, 1039.63406pt x 262.73157pt>
 File: pics/Re100.png Graphic file (type png)
 <use pics/Re100.png>
 Package pdftex.def Info: pics/Re100.png  used on input line 760.
 (pdftex.def)             Requested size: 415.84625pt x 105.09076pt.
-<pics/Re200.png, id=700, 1034.36438pt x 251.43938pt>
+<pics/Re200.png, id=667, 1034.36438pt x 251.43938pt>
 File: pics/Re200.png Graphic file (type png)
 <use pics/Re200.png>
 Package pdftex.def Info: pics/Re200.png  used on input line 765.
 (pdftex.def)             Requested size: 413.73842pt x 100.57396pt.
-<pics/Re400.png, id=701, 1036.62282pt x 259.7203pt>
+<pics/Re400.png, id=668, 1036.62282pt x 259.7203pt>
 File: pics/Re400.png Graphic file (type png)
 <use pics/Re400.png>
 Package pdftex.def Info: pics/Re400.png  used on input line 770.
@@ -1704,19 +1696,19 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<pics/Umag.png, id=716, 340.27126pt x 367.3725pt>
+<pics/Umag.png, id=683, 340.27126pt x 367.3725pt>
 File: pics/Umag.png Graphic file (type png)
 <use pics/Umag.png>
 Package pdftex.def Info: pics/Umag.png  used on input line 824.
 (pdftex.def)             Requested size: 306.24129pt x 330.63217pt.
-[45]
+[40]
 
-LaTeX Warning: Text page 46 contains only floats.
+LaTeX Warning: Text page 41 contains only floats.
 
 
 Overfull \vbox (1.91644pt too high) has occurred while \output is active []
 
- [46]
+ [41]
 PGFPlots: reading {CSV/NEK5000.csv}
 PGFPlots: reading {CSV/QHD480x320.csv}
 PGFPlots: reading {CSV/QHD240x160.csv}
@@ -1763,206 +1755,206 @@ Overfull \hbox (6.85747pt too wide) in paragraph at lines 897--898
  [][] 
  []
 
-[47]
-<Figs/CritAttrFreq.png, id=747, 373.395pt x 386.44376pt>
+[42]
+<Figs/CritAttrFreq.png, id=715, 373.395pt x 386.44376pt>
 File: Figs/CritAttrFreq.png Graphic file (type png)
 <use Figs/CritAttrFreq.png>
 Package pdftex.def Info: Figs/CritAttrFreq.png  used on input line 927.
 (pdftex.def)             Requested size: 298.7164pt x 309.15543pt.
- [48]
-<Figs/AttrCritFreq.png, id=759, 456.70625pt x 351.3125pt>
+ [43]
+<Figs/AttrCritFreq.png, id=728, 456.70625pt x 351.3125pt>
 File: Figs/AttrCritFreq.png Graphic file (type png)
 <use Figs/AttrCritFreq.png>
 Package pdftex.def Info: Figs/AttrCritFreq.png  used on input line 948.
 (pdftex.def)             Requested size: 274.02585pt x 210.78911pt.
-<Figs/AttrNEKcrit1.png, id=761, 819.06pt x 240.14719pt>
+<Figs/AttrNEKcrit1.png, id=730, 819.06pt x 240.14719pt>
 File: Figs/AttrNEKcrit1.png Graphic file (type png)
 <use Figs/AttrNEKcrit1.png>
 Package pdftex.def Info: Figs/AttrNEKcrit1.png  used on input line 960.
 (pdftex.def)             Requested size: 368.5736pt x 108.06522pt.
-<Figs/AttrNekCrit2.png, id=762, 813.0375pt x 237.13594pt>
+<Figs/AttrNekCrit2.png, id=731, 813.0375pt x 237.13594pt>
 File: Figs/AttrNekCrit2.png Graphic file (type png)
 <use Figs/AttrNekCrit2.png>
 Package pdftex.def Info: Figs/AttrNekCrit2.png  used on input line 965.
 (pdftex.def)             Requested size: 365.8635pt x 106.71017pt.
- [49]
-<pics/H40L60N1ap02dp20w1p58w2p66Biharm/2D36x36DiagramH40L60N1ap02dp20w1p58w2p66BiharmVyn06129.png, id=776, 2055.68pt x 1405.25pt>
+ [44]
+<pics/H40L60N1ap02dp20w1p58w2p66Biharm/2D36x36DiagramH40L60N1ap02dp20w1p58w2p66BiharmVyn06129.png, id=744, 2055.68pt x 1405.25pt>
 File: pics/H40L60N1ap02dp20w1p58w2p66Biharm/2D36x36DiagramH40L60N1ap02dp20w1p58w2p66BiharmVyn06129.png Graphic file (type png)
 <use pics/H40L60N1ap02dp20w1p58w2p66Biharm/2D36x36DiagramH40L60N1ap02dp20w1p58w2p66BiharmVyn06129.png>
 Package pdftex.def Info: pics/H40L60N1ap02dp20w1p58w2p66Biharm/2D36x36DiagramH40L60N1ap02dp20w1p58w2p66BiharmVyn06129.png  used on input line 1009.
 (pdftex.def)             Requested size: 204.85846pt x 140.04005pt.
-<pics/H40L60N1ap02dp20w1p58w2p66Biharm/2D36x36DiagramH40L60N1ap02dp20w1p58w2p66BiharmVy6129.png, id=777, 2055.68pt x 1405.25pt>
+<pics/H40L60N1ap02dp20w1p58w2p66Biharm/2D36x36DiagramH40L60N1ap02dp20w1p58w2p66BiharmVy6129.png, id=745, 2055.68pt x 1405.25pt>
 File: pics/H40L60N1ap02dp20w1p58w2p66Biharm/2D36x36DiagramH40L60N1ap02dp20w1p58w2p66BiharmVy6129.png Graphic file (type png)
 <use pics/H40L60N1ap02dp20w1p58w2p66Biharm/2D36x36DiagramH40L60N1ap02dp20w1p58w2p66BiharmVy6129.png>
 Package pdftex.def Info: pics/H40L60N1ap02dp20w1p58w2p66Biharm/2D36x36DiagramH40L60N1ap02dp20w1p58w2p66BiharmVy6129.png  used on input line 1013.
 (pdftex.def)             Requested size: 204.85846pt x 140.04005pt.
-<pics/H40L60N1ap02dp20w1p58w2p66Biharm/vyX36p49Y7p94frm280to300.png, id=778, 433.62pt x 289.08pt>
+<pics/H40L60N1ap02dp20w1p58w2p66Biharm/vyX36p49Y7p94frm280to300.png, id=746, 433.62pt x 289.08pt>
 File: pics/H40L60N1ap02dp20w1p58w2p66Biharm/vyX36p49Y7p94frm280to300.png Graphic file (type png)
 <use pics/H40L60N1ap02dp20w1p58w2p66Biharm/vyX36p49Y7p94frm280to300.png>
 Package pdftex.def Info: pics/H40L60N1ap02dp20w1p58w2p66Biharm/vyX36p49Y7p94frm280to300.png  used on input line 1018.
 (pdftex.def)             Requested size: 204.85846pt x 136.57336pt.
-<pics/H40L60N1ap02dp20w1p58w2p66Biharm/2D36x36DiagramH40L60N1ap02dp20w1p58w2p66BiharmtotKEnonDim.png, id=779, 462.528pt x 346.896pt>
+<pics/H40L60N1ap02dp20w1p58w2p66Biharm/2D36x36DiagramH40L60N1ap02dp20w1p58w2p66BiharmtotKEnonDim.png, id=747, 462.528pt x 346.896pt>
 File: pics/H40L60N1ap02dp20w1p58w2p66Biharm/2D36x36DiagramH40L60N1ap02dp20w1p58w2p66BiharmtotKEnonDim.png Graphic file (type png)
 <use pics/H40L60N1ap02dp20w1p58w2p66Biharm/2D36x36DiagramH40L60N1ap02dp20w1p58w2p66BiharmtotKEnonDim.png>
 Package pdftex.def Info: pics/H40L60N1ap02dp20w1p58w2p66Biharm/2D36x36DiagramH40L60N1ap02dp20w1p58w2p66BiharmtotKEnonDim.png  used on input line 1022.
 (pdftex.def)             Requested size: 204.85846pt x 153.6457pt.
-<pics/H40L60N1ap02dp20w1p58w2p66Biharm/spectrumX36p4Y8p0.png, id=780, 433.62pt x 289.08pt>
+<pics/H40L60N1ap02dp20w1p58w2p66Biharm/spectrumX36p4Y8p0.png, id=748, 433.62pt x 289.08pt>
 File: pics/H40L60N1ap02dp20w1p58w2p66Biharm/spectrumX36p4Y8p0.png Graphic file (type png)
 <use pics/H40L60N1ap02dp20w1p58w2p66Biharm/spectrumX36p4Y8p0.png>
 Package pdftex.def Info: pics/H40L60N1ap02dp20w1p58w2p66Biharm/spectrumX36p4Y8p0.png  used on input line 1027.
 (pdftex.def)             Requested size: 204.85846pt x 136.57336pt.
-<pics/H40L60N1ap02dp20w1p58w2p66Biharm/TFspectrumX36p4Y8p0N768.png, id=781, 867.24pt x 578.16pt>
+<pics/H40L60N1ap02dp20w1p58w2p66Biharm/TFspectrumX36p4Y8p0N768.png, id=749, 867.24pt x 578.16pt>
 File: pics/H40L60N1ap02dp20w1p58w2p66Biharm/TFspectrumX36p4Y8p0N768.png Graphic file (type png)
 <use pics/H40L60N1ap02dp20w1p58w2p66Biharm/TFspectrumX36p4Y8p0N768.png>
 Package pdftex.def Info: pics/H40L60N1ap02dp20w1p58w2p66Biharm/TFspectrumX36p4Y8p0N768.png  used on input line 1031.
 (pdftex.def)             Requested size: 204.85846pt x 136.56454pt.
-<pics/H40L60N1ap10dp20w0p63/2DH40L60N1ap10dp20w0p63Vyn00012.png, id=783, 1027.84pt x 702.625pt>
+<pics/H40L60N1ap10dp20w0p63/2DH40L60N1ap10dp20w0p63Vyn00012.png, id=751, 1027.84pt x 702.625pt>
 File: pics/H40L60N1ap10dp20w0p63/2DH40L60N1ap10dp20w0p63Vyn00012.png Graphic file (type png)
 <use pics/H40L60N1ap10dp20w0p63/2DH40L60N1ap10dp20w0p63Vyn00012.png>
 Package pdftex.def Info: pics/H40L60N1ap10dp20w0p63/2DH40L60N1ap10dp20w0p63Vyn00012.png  used on input line 1043.
 (pdftex.def)             Requested size: 204.85846pt x 140.04005pt.
-<pics/H40L60N1ap10dp20w0p63/2DH40L60N1ap10dp20w0p63Vyn00308.png, id=784, 1027.84pt x 702.625pt>
+<pics/H40L60N1ap10dp20w0p63/2DH40L60N1ap10dp20w0p63Vyn00308.png, id=752, 1027.84pt x 702.625pt>
 File: pics/H40L60N1ap10dp20w0p63/2DH40L60N1ap10dp20w0p63Vyn00308.png Graphic file (type png)
 <use pics/H40L60N1ap10dp20w0p63/2DH40L60N1ap10dp20w0p63Vyn00308.png>
 Package pdftex.def Info: pics/H40L60N1ap10dp20w0p63/2DH40L60N1ap10dp20w0p63Vyn00308.png  used on input line 1047.
 (pdftex.def)             Requested size: 204.85846pt x 140.04005pt.
-<pics/H40L60N1ap10dp20w0p63/vyX35p6Y11p3t1200.png, id=785, 433.62pt x 289.08pt>
+<pics/H40L60N1ap10dp20w0p63/vyX35p6Y11p3t1200.png, id=753, 433.62pt x 289.08pt>
 File: pics/H40L60N1ap10dp20w0p63/vyX35p6Y11p3t1200.png Graphic file (type png)
 <use pics/H40L60N1ap10dp20w0p63/vyX35p6Y11p3t1200.png>
 Package pdftex.def Info: pics/H40L60N1ap10dp20w0p63/vyX35p6Y11p3t1200.png  used on input line 1052.
 (pdftex.def)             Requested size: 204.85846pt x 136.57336pt.
-<pics/H40L60N1ap10dp20w0p63/2D36x36DiagramH40L60N1ap10dp20w0p63totKEnonDim.png, id=786, 462.528pt x 346.896pt>
+<pics/H40L60N1ap10dp20w0p63/2D36x36DiagramH40L60N1ap10dp20w0p63totKEnonDim.png, id=754, 462.528pt x 346.896pt>
 File: pics/H40L60N1ap10dp20w0p63/2D36x36DiagramH40L60N1ap10dp20w0p63totKEnonDim.png Graphic file (type png)
 <use pics/H40L60N1ap10dp20w0p63/2D36x36DiagramH40L60N1ap10dp20w0p63totKEnonDim.png>
 Package pdftex.def Info: pics/H40L60N1ap10dp20w0p63/2D36x36DiagramH40L60N1ap10dp20w0p63totKEnonDim.png  used on input line 1056.
 (pdftex.def)             Requested size: 204.85846pt x 153.6457pt.
-<pics/H40L60N1ap10dp20w0p63/spectrumX35p6Y11p2n4000.png, id=787, 433.62pt x 289.08pt>
+<pics/H40L60N1ap10dp20w0p63/spectrumX35p6Y11p2n4000.png, id=755, 433.62pt x 289.08pt>
 File: pics/H40L60N1ap10dp20w0p63/spectrumX35p6Y11p2n4000.png Graphic file (type png)
 <use pics/H40L60N1ap10dp20w0p63/spectrumX35p6Y11p2n4000.png>
 Package pdftex.def Info: pics/H40L60N1ap10dp20w0p63/spectrumX35p6Y11p2n4000.png  used on input line 1061.
 (pdftex.def)             Requested size: 204.85846pt x 136.57336pt.
-<pics/H40L60N1ap10dp20w0p63/TFspectrumX35p6Y11p2N1024.png, id=788, 867.24pt x 578.16pt>
+<pics/H40L60N1ap10dp20w0p63/TFspectrumX35p6Y11p2N1024.png, id=756, 867.24pt x 578.16pt>
 File: pics/H40L60N1ap10dp20w0p63/TFspectrumX35p6Y11p2N1024.png Graphic file (type png)
 <use pics/H40L60N1ap10dp20w0p63/TFspectrumX35p6Y11p2N1024.png>
 Package pdftex.def Info: pics/H40L60N1ap10dp20w0p63/TFspectrumX35p6Y11p2N1024.png  used on input line 1065.
 (pdftex.def)             Requested size: 204.85846pt x 136.56454pt.
- [50]
-<pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/2D36x36DiagramH40L60N1ap05dp20w0p63Deltawp3315BiharmVyn01019.png, id=798, 2055.68pt x 1405.25pt>
+ [45]
+<pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/2D36x36DiagramH40L60N1ap05dp20w0p63Deltawp3315BiharmVyn01019.png, id=766, 2055.68pt x 1405.25pt>
 File: pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/2D36x36DiagramH40L60N1ap05dp20w0p63Deltawp3315BiharmVyn01019.png Graphic file (type png)
 <use pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/2D36x36DiagramH40L60N1ap05dp20w0p63Deltawp3315BiharmVyn01019.png>
 Package pdftex.def Info: pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/2D36x36DiagramH40L60N1ap05dp20w0p63Deltawp3315BiharmVyn01019.png  used on input line 1078.
 (pdftex.def)             Requested size: 204.85846pt x 140.04005pt.
-<pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/2D36x36DiagramH40L60N1ap05dp20w0p63Deltawp3315BiharmVyn04408.png, id=799, 2055.68pt x 1405.25pt>
+<pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/2D36x36DiagramH40L60N1ap05dp20w0p63Deltawp3315BiharmVyn04408.png, id=767, 2055.68pt x 1405.25pt>
 File: pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/2D36x36DiagramH40L60N1ap05dp20w0p63Deltawp3315BiharmVyn04408.png Graphic file (type png)
 <use pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/2D36x36DiagramH40L60N1ap05dp20w0p63Deltawp3315BiharmVyn04408.png>
 Package pdftex.def Info: pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/2D36x36DiagramH40L60N1ap05dp20w0p63Deltawp3315BiharmVyn04408.png  used on input line 1082.
 (pdftex.def)             Requested size: 204.85846pt x 140.04005pt.
-<pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/vyX35p57Y11p27t4412.png, id=800, 433.62pt x 289.08pt>
+<pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/vyX35p57Y11p27t4412.png, id=768, 433.62pt x 289.08pt>
 File: pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/vyX35p57Y11p27t4412.png Graphic file (type png)
 <use pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/vyX35p57Y11p27t4412.png>
 Package pdftex.def Info: pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/vyX35p57Y11p27t4412.png  used on input line 1087.
 (pdftex.def)             Requested size: 204.85846pt x 136.57336pt.
-<pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/2D36x36DiagramH40L60N1ap05dp20w1p63Deltawp05BiharmtotKEnonDim.png, id=801, 462.528pt x 346.896pt>
+<pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/2D36x36DiagramH40L60N1ap05dp20w1p63Deltawp05BiharmtotKEnonDim.png, id=769, 462.528pt x 346.896pt>
 File: pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/2D36x36DiagramH40L60N1ap05dp20w1p63Deltawp05BiharmtotKEnonDim.png Graphic file (type png)
 <use pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/2D36x36DiagramH40L60N1ap05dp20w1p63Deltawp05BiharmtotKEnonDim.png>
 Package pdftex.def Info: pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/2D36x36DiagramH40L60N1ap05dp20w1p63Deltawp05BiharmtotKEnonDim.png  used on input line 1091.
 (pdftex.def)             Requested size: 204.85846pt x 153.6457pt.
-<pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/spectrumX35p6Y11p2.png, id=802, 433.62pt x 289.08pt>
+<pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/spectrumX35p6Y11p2.png, id=770, 433.62pt x 289.08pt>
 File: pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/spectrumX35p6Y11p2.png Graphic file (type png)
 <use pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/spectrumX35p6Y11p2.png>
 Package pdftex.def Info: pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/spectrumX35p6Y11p2.png  used on input line 1096.
 (pdftex.def)             Requested size: 204.85846pt x 136.57336pt.
-<pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/TFspectrumX35p6Y11p2N200.png, id=803, 867.24pt x 578.16pt>
+<pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/TFspectrumX35p6Y11p2N200.png, id=771, 867.24pt x 578.16pt>
 File: pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/TFspectrumX35p6Y11p2N200.png Graphic file (type png)
 <use pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/TFspectrumX35p6Y11p2N200.png>
 Package pdftex.def Info: pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/TFspectrumX35p6Y11p2N200.png  used on input line 1100.
 (pdftex.def)             Requested size: 204.85846pt x 136.56454pt.
-<pics/H40L60N1ap05dp20w1p63Deltawp02Biharm/vyX35p57Y11p27t4400.png, id=805, 433.62pt x 289.08pt>
+<pics/H40L60N1ap05dp20w1p63Deltawp02Biharm/vyX35p57Y11p27t4400.png, id=773, 433.62pt x 289.08pt>
 File: pics/H40L60N1ap05dp20w1p63Deltawp02Biharm/vyX35p57Y11p27t4400.png Graphic file (type png)
 <use pics/H40L60N1ap05dp20w1p63Deltawp02Biharm/vyX35p57Y11p27t4400.png>
 Package pdftex.def Info: pics/H40L60N1ap05dp20w1p63Deltawp02Biharm/vyX35p57Y11p27t4400.png  used on input line 1114.
 (pdftex.def)             Requested size: 204.85846pt x 136.57336pt.
-<pics/H40L60N1ap05dp20w1p63Deltawp02Biharm/2D36x36DiagramH40L60N1ap05dp20w1p63Deltawp02BiharmtotKEnonDim.png, id=806, 462.528pt x 346.896pt>
+<pics/H40L60N1ap05dp20w1p63Deltawp02Biharm/2D36x36DiagramH40L60N1ap05dp20w1p63Deltawp02BiharmtotKEnonDim.png, id=774, 462.528pt x 346.896pt>
 File: pics/H40L60N1ap05dp20w1p63Deltawp02Biharm/2D36x36DiagramH40L60N1ap05dp20w1p63Deltawp02BiharmtotKEnonDim.png Graphic file (type png)
 <use pics/H40L60N1ap05dp20w1p63Deltawp02Biharm/2D36x36DiagramH40L60N1ap05dp20w1p63Deltawp02BiharmtotKEnonDim.png>
 Package pdftex.def Info: pics/H40L60N1ap05dp20w1p63Deltawp02Biharm/2D36x36DiagramH40L60N1ap05dp20w1p63Deltawp02BiharmtotKEnonDim.png  used on input line 1118.
 (pdftex.def)             Requested size: 204.85846pt x 153.6457pt.
-<pics/H40L60N1ap05dp20w1p63Deltawp02Biharm/spectrumX35p6Y11p2.png, id=807, 433.62pt x 289.08pt>
+<pics/H40L60N1ap05dp20w1p63Deltawp02Biharm/spectrumX35p6Y11p2.png, id=775, 433.62pt x 289.08pt>
 File: pics/H40L60N1ap05dp20w1p63Deltawp02Biharm/spectrumX35p6Y11p2.png Graphic file (type png)
 <use pics/H40L60N1ap05dp20w1p63Deltawp02Biharm/spectrumX35p6Y11p2.png>
 Package pdftex.def Info: pics/H40L60N1ap05dp20w1p63Deltawp02Biharm/spectrumX35p6Y11p2.png  used on input line 1123.
 (pdftex.def)             Requested size: 204.85846pt x 136.57336pt.
-<pics/H40L60N1ap05dp20w1p63Deltawp02Biharm/TFspectrumX35p6Y11p2N256.png, id=808, 867.24pt x 578.16pt>
+<pics/H40L60N1ap05dp20w1p63Deltawp02Biharm/TFspectrumX35p6Y11p2N256.png, id=776, 867.24pt x 578.16pt>
 File: pics/H40L60N1ap05dp20w1p63Deltawp02Biharm/TFspectrumX35p6Y11p2N256.png Graphic file (type png)
 <use pics/H40L60N1ap05dp20w1p63Deltawp02Biharm/TFspectrumX35p6Y11p2N256.png>
 Package pdftex.def Info: pics/H40L60N1ap05dp20w1p63Deltawp02Biharm/TFspectrumX35p6Y11p2N256.png  used on input line 1127.
 (pdftex.def)             Requested size: 204.85846pt x 136.56454pt.
-<pics/Biharm.png, id=810, 630.10406pt x 366.61969pt>
+<pics/Biharm.png, id=778, 630.10406pt x 366.61969pt>
 File: pics/Biharm.png Graphic file (type png)
 <use pics/Biharm.png>
 Package pdftex.def Info: pics/Biharm.png  used on input line 1147.
 (pdftex.def)             Requested size: 455.24411pt x 264.87782pt.
- [51]
-<pics/H40L60N1ap05dp20w0p63/2D36x36DiagramH40L60N1ap05dp20w0p63Vyn00308.png, id=827, 2055.68pt x 1405.25pt>
+ [46]
+<pics/H40L60N1ap05dp20w0p63/2D36x36DiagramH40L60N1ap05dp20w0p63Vyn00308.png, id=795, 2055.68pt x 1405.25pt>
 File: pics/H40L60N1ap05dp20w0p63/2D36x36DiagramH40L60N1ap05dp20w0p63Vyn00308.png Graphic file (type png)
 <use pics/H40L60N1ap05dp20w0p63/2D36x36DiagramH40L60N1ap05dp20w0p63Vyn00308.png>
 Package pdftex.def Info: pics/H40L60N1ap05dp20w0p63/2D36x36DiagramH40L60N1ap05dp20w0p63Vyn00308.png  used on input line 1167.
 (pdftex.def)             Requested size: 204.85846pt x 140.04005pt.
-<pics/H40L60N1ap05dp20w0p63/2D36x36DiagramH40L60N1ap05dp20w0p63Pn00308.png, id=828, 2055.68pt x 1405.25pt>
+<pics/H40L60N1ap05dp20w0p63/2D36x36DiagramH40L60N1ap05dp20w0p63Pn00308.png, id=796, 2055.68pt x 1405.25pt>
 File: pics/H40L60N1ap05dp20w0p63/2D36x36DiagramH40L60N1ap05dp20w0p63Pn00308.png Graphic file (type png)
 <use pics/H40L60N1ap05dp20w0p63/2D36x36DiagramH40L60N1ap05dp20w0p63Pn00308.png>
 Package pdftex.def Info: pics/H40L60N1ap05dp20w0p63/2D36x36DiagramH40L60N1ap05dp20w0p63Pn00308.png  used on input line 1171.
 (pdftex.def)             Requested size: 204.85846pt x 140.04005pt.
-<pics/H40L60N1ap05dp20w0p63/vyX35p57Y11p27t4400.png, id=829, 433.62pt x 289.08pt>
+<pics/H40L60N1ap05dp20w0p63/vyX35p57Y11p27t4400.png, id=797, 433.62pt x 289.08pt>
 File: pics/H40L60N1ap05dp20w0p63/vyX35p57Y11p27t4400.png Graphic file (type png)
 <use pics/H40L60N1ap05dp20w0p63/vyX35p57Y11p27t4400.png>
 Package pdftex.def Info: pics/H40L60N1ap05dp20w0p63/vyX35p57Y11p27t4400.png  used on input line 1176.
 (pdftex.def)             Requested size: 204.85846pt x 136.57336pt.
-<pics/H40L60N1ap05dp20w0p63/2D36x36DiagramH40L60N1ap05dp20w0p63totKEnonDim.png, id=830, 462.528pt x 346.896pt>
+<pics/H40L60N1ap05dp20w0p63/2D36x36DiagramH40L60N1ap05dp20w0p63totKEnonDim.png, id=798, 462.528pt x 346.896pt>
 File: pics/H40L60N1ap05dp20w0p63/2D36x36DiagramH40L60N1ap05dp20w0p63totKEnonDim.png Graphic file (type png)
 <use pics/H40L60N1ap05dp20w0p63/2D36x36DiagramH40L60N1ap05dp20w0p63totKEnonDim.png>
 Package pdftex.def Info: pics/H40L60N1ap05dp20w0p63/2D36x36DiagramH40L60N1ap05dp20w0p63totKEnonDim.png  used on input line 1180.
 (pdftex.def)             Requested size: 204.85846pt x 153.6457pt.
-<pics/H40L60N1ap05dp20w0p63/spectrumX35.6Y11.2.png, id=831, 433.62pt x 289.08pt>
+<pics/H40L60N1ap05dp20w0p63/spectrumX35.6Y11.2.png, id=799, 433.62pt x 289.08pt>
 File: pics/H40L60N1ap05dp20w0p63/spectrumX35.6Y11.2.png Graphic file (type png)
 <use pics/H40L60N1ap05dp20w0p63/spectrumX35.6Y11.2.png>
 Package pdftex.def Info: pics/H40L60N1ap05dp20w0p63/spectrumX35.6Y11.2.png  used on input line 1185.
 (pdftex.def)             Requested size: 204.85846pt x 136.57336pt.
-<pics/H40L60N1ap05dp20w0p63/TFspectrumX35.6Y11.2N1024.png, id=832, 867.24pt x 578.16pt>
+<pics/H40L60N1ap05dp20w0p63/TFspectrumX35.6Y11.2N1024.png, id=800, 867.24pt x 578.16pt>
 File: pics/H40L60N1ap05dp20w0p63/TFspectrumX35.6Y11.2N1024.png Graphic file (type png)
 <use pics/H40L60N1ap05dp20w0p63/TFspectrumX35.6Y11.2N1024.png>
 Package pdftex.def Info: pics/H40L60N1ap05dp20w0p63/TFspectrumX35.6Y11.2N1024.png  used on input line 1189.
 (pdftex.def)             Requested size: 204.85846pt x 136.56454pt.
- [52] [53]) [54] [55] [56] [57 <d:/git/GOSTSCW/pics/Re100.png> <d:/git/GOSTSCW/pics/Re200.png> <d:/git/GOSTSCW/pics/Re400.png>] [58 <d:/git/GOSTSCW/pics/Umag.png>] [59] [60 <d:/git/GOSTSCW/Figs/CritAttrFreq.png> <d:/git/GOSTSCW/Figs/AttrCritFreq.png>] [61 <d:/git/GOSTSCW/Figs/AttrNEKcrit1.png> <d:/git/GOSTSCW/Figs/AttrNekCrit2.png>] [62 <d:/git/GOSTSCW/pics/H40L60N1ap02dp20w1p58w2p66Biharm/2D36x36DiagramH40L60N1ap02dp20w1p58w2p66BiharmVyn06129.png (PNG copy)> <d:/git/GOSTSCW/pics/H40L60N1ap02dp20w1p58w2p66Biharm/2D36x36DiagramH40L60N1ap02dp20w1p58w2p66BiharmVy6129.png (PNG copy)> <d:/git/GOSTSCW/pics/H40L60N1ap02dp20w1p58w2p66Biharm/vyX36p49Y7p94frm280to300.png> <d:/git/GOSTSCW/pics/H40L60N1ap02dp20w1p58w2p66Biharm/2D36x36DiagramH40L60N1ap02dp20w1p58w2p66BiharmtotKEnonDim.png> <d:/git/GOSTSCW/pics/H40L60N1ap02dp20w1p58w2p66Biharm/spectrumX36p4Y8p0.png> <d:/git/GOSTSCW/pics/H40L60N1ap02dp20w1p58w2p66Biharm/TFspectrumX36p4Y8p0N768.png>] [63 <d:/git/GOSTSCW/pics/H40L60N1ap10dp20w0p63/2DH40L60N1ap10dp20w0p63Vyn00012.png> <d:/git/GOSTSCW/pics/H40L60N1ap10dp20w0p63/2DH40L60N1ap10dp20w0p63Vyn00308.png> <d:/git/GOSTSCW/pics/H40L60N1ap10dp20w0p63/vyX35p6Y11p3t1200.png> <d:/git/GOSTSCW/pics/H40L60N1ap10dp20w0p63/2D36x36DiagramH40L60N1ap10dp20w0p63totKEnonDim.png> <d:/git/GOSTSCW/pics/H40L60N1ap10dp20w0p63/spectrumX35p6Y11p2n4000.png> <d:/git/GOSTSCW/pics/H40L60N1ap10dp20w0p63/TFspectrumX35p6Y11p2N1024.png>] [64 <d:/git/GOSTSCW/pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/2D36x36DiagramH40L60N1ap05dp20w0p63Deltawp3315BiharmVyn01019.png (PNG copy)> <d:/git/GOSTSCW/pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/2D36x36DiagramH40L60N1ap05dp20w0p63Deltawp3315BiharmVyn04408.png (PNG copy)> <d:/git/GOSTSCW/pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/vyX35p57Y11p27t4412.png> <d:/git/GOSTSCW/pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/2D36x36DiagramH40L60N1ap05dp20w1p63Deltawp05BiharmtotKEnonDim.png> <d:/git/GOSTSCW/pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/spectrumX35p6Y11p2.png> <d:/git/GOSTSCW/pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/TFspectrumX35p6Y11p2N200.png>] [65 <d:/git/GOSTSCW/pics/H40L60N1ap05dp20w1p63Deltawp02Biharm/vyX35p57Y11p27t4400.png> <d:/git/GOSTSCW/pics/H40L60N1ap05dp20w1p63Deltawp02Biharm/2D36x36DiagramH40L60N1ap05dp20w1p63Deltawp02BiharmtotKEnonDim.png> <d:/git/GOSTSCW/pics/H40L60N1ap05dp20w1p63Deltawp02Biharm/spectrumX35p6Y11p2.png> <d:/git/GOSTSCW/pics/H40L60N1ap05dp20w1p63Deltawp02Biharm/TFspectrumX35p6Y11p2N256.png> <d:/git/GOSTSCW/pics/Biharm.png>] [66 <d:/git/GOSTSCW/pics/H40L60N1ap05dp20w0p63/2D36x36DiagramH40L60N1ap05dp20w0p63Vyn00308.png (PNG copy)> <d:/git/GOSTSCW/pics/H40L60N1ap05dp20w0p63/2D36x36DiagramH40L60N1ap05dp20w0p63Pn00308.png (PNG copy)> <d:/git/GOSTSCW/pics/H40L60N1ap05dp20w0p63/vyX35p57Y11p27t4400.png> <d:/git/GOSTSCW/pics/H40L60N1ap05dp20w0p63/2D36x36DiagramH40L60N1ap05dp20w0p63totKEnonDim.png> <d:/git/GOSTSCW/pics/H40L60N1ap05dp20w0p63/spectrumX35.6Y11.2.png> <d:/git/GOSTSCW/pics/H40L60N1ap05dp20w0p63/TFspectrumX35.6Y11.2N1024.png>] [67]
+ [47] [48]) [49] [50] [51] [52 <d:/git/DISER/pics/Re100.png> <d:/git/DISER/pics/Re200.png> <d:/git/DISER/pics/Re400.png>] [53 <d:/git/DISER/pics/Umag.png>] [54] [55 <d:/git/DISER/Figs/CritAttrFreq.png> <d:/git/DISER/Figs/AttrCritFreq.png>] [56 <d:/git/DISER/Figs/AttrNEKcrit1.png> <d:/git/DISER/Figs/AttrNekCrit2.png>] [57 <d:/git/DISER/pics/H40L60N1ap02dp20w1p58w2p66Biharm/2D36x36DiagramH40L60N1ap02dp20w1p58w2p66BiharmVyn06129.png (PNG copy)> <d:/git/DISER/pics/H40L60N1ap02dp20w1p58w2p66Biharm/2D36x36DiagramH40L60N1ap02dp20w1p58w2p66BiharmVy6129.png (PNG copy)> <d:/git/DISER/pics/H40L60N1ap02dp20w1p58w2p66Biharm/vyX36p49Y7p94frm280to300.png> <d:/git/DISER/pics/H40L60N1ap02dp20w1p58w2p66Biharm/2D36x36DiagramH40L60N1ap02dp20w1p58w2p66BiharmtotKEnonDim.png> <d:/git/DISER/pics/H40L60N1ap02dp20w1p58w2p66Biharm/spectrumX36p4Y8p0.png> <d:/git/DISER/pics/H40L60N1ap02dp20w1p58w2p66Biharm/TFspectrumX36p4Y8p0N768.png>] [58 <d:/git/DISER/pics/H40L60N1ap10dp20w0p63/2DH40L60N1ap10dp20w0p63Vyn00012.png> <d:/git/DISER/pics/H40L60N1ap10dp20w0p63/2DH40L60N1ap10dp20w0p63Vyn00308.png> <d:/git/DISER/pics/H40L60N1ap10dp20w0p63/vyX35p6Y11p3t1200.png> <d:/git/DISER/pics/H40L60N1ap10dp20w0p63/2D36x36DiagramH40L60N1ap10dp20w0p63totKEnonDim.png> <d:/git/DISER/pics/H40L60N1ap10dp20w0p63/spectrumX35p6Y11p2n4000.png> <d:/git/DISER/pics/H40L60N1ap10dp20w0p63/TFspectrumX35p6Y11p2N1024.png>] [59 <d:/git/DISER/pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/2D36x36DiagramH40L60N1ap05dp20w0p63Deltawp3315BiharmVyn01019.png (PNG copy)> <d:/git/DISER/pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/2D36x36DiagramH40L60N1ap05dp20w0p63Deltawp3315BiharmVyn04408.png (PNG copy)> <d:/git/DISER/pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/vyX35p57Y11p27t4412.png> <d:/git/DISER/pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/2D36x36DiagramH40L60N1ap05dp20w1p63Deltawp05BiharmtotKEnonDim.png> <d:/git/DISER/pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/spectrumX35p6Y11p2.png> <d:/git/DISER/pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/TFspectrumX35p6Y11p2N200.png>] [60 <d:/git/DISER/pics/H40L60N1ap05dp20w1p63Deltawp02Biharm/vyX35p57Y11p27t4400.png> <d:/git/DISER/pics/H40L60N1ap05dp20w1p63Deltawp02Biharm/2D36x36DiagramH40L60N1ap05dp20w1p63Deltawp02BiharmtotKEnonDim.png> <d:/git/DISER/pics/H40L60N1ap05dp20w1p63Deltawp02Biharm/spectrumX35p6Y11p2.png> <d:/git/DISER/pics/H40L60N1ap05dp20w1p63Deltawp02Biharm/TFspectrumX35p6Y11p2N256.png> <d:/git/DISER/pics/Biharm.png>] [61 <d:/git/DISER/pics/H40L60N1ap05dp20w0p63/2D36x36DiagramH40L60N1ap05dp20w0p63Vyn00308.png (PNG copy)> <d:/git/DISER/pics/H40L60N1ap05dp20w0p63/2D36x36DiagramH40L60N1ap05dp20w0p63Pn00308.png (PNG copy)> <d:/git/DISER/pics/H40L60N1ap05dp20w0p63/vyX35p57Y11p27t4400.png> <d:/git/DISER/pics/H40L60N1ap05dp20w0p63/2D36x36DiagramH40L60N1ap05dp20w0p63totKEnonDim.png> <d:/git/DISER/pics/H40L60N1ap05dp20w0p63/spectrumX35.6Y11.2.png> <d:/git/DISER/pics/H40L60N1ap05dp20w0p63/TFspectrumX35.6Y11.2N1024.png>] [62]
 \openout2 = `Conclusion.aux'.
 
- (d:/git/GOSTSCW/Conclusion.tex [68
+ (d:/git/DISER/Conclusion.tex [63
 
 
 
-] [69]) [70]
+] [64]) [65]
 \openout2 = `81-biblio.aux'.
 
- (d:/git/GOSTSCW/81-biblio.tex (d:/git/GOSTSCW/rpz.bbl<<ot1tt.cmap>>
-Underfull \hbox (badness 1552) in paragraph at lines 30--38
+ (d:/git/DISER/81-biblio.tex (d:/git/DISER/rpz.bbl<<ot1tt.cmap>>
+Underfull \hbox (badness 3049) in paragraph at lines 56--58
+[]\OT1/cmr/m/n/14.4 Dead wa-ter video. [] [][]$\OT1/cmtt/m/n/14.4 https : / / www . youtube . com / watch ? v =
+ []
+
+[66
+
+
+
+]
+Underfull \hbox (badness 1478) in paragraph at lines 149--157
 []\OT1/cmr/m/n/14.4 Tidally gen-er-ated internal-wave at-trac-tors be-tween dou-ble
  []
 
 
-Underfull \hbox (badness 1430) in paragraph at lines 30--38
+Underfull \hbox (badness 1430) in paragraph at lines 149--157
 \OT1/cmr/m/n/14.4 ridges / P. ECHEV-ERRI, T. YOKOSSI, N. J. BALM-FORTH,
  []
 
-
-Underfull \hbox (badness 3049) in paragraph at lines 67--69
-[]\OT1/cmr/m/n/14.4 Dead wa-ter video. [] [][]$\OT1/cmtt/m/n/14.4 https : / / www . youtube . com / watch ? v =
- []
-
-[71
-
-
-
-] [72]
+[67]
 Underfull \hbox (badness 1308) in paragraph at lines 232--240
 \OT1/cmr/m/n/14.4 no. 1. [] P. 37--66. [] Ac-cess mode: [][]$\OT1/cmtt/m/n/14.4 https : / / doi . org / 10 . 1146 /
  []
@@ -1972,7 +1964,7 @@ Underfull \hbox (badness 1286) in paragraph at lines 263--272
 []\OT1/cmr/m/n/14.4 Energy cas-cade in internal-wave at-trac-tors / C. Brouzet,
  []
 
-[73] [74]
+[68] [69]
 Underfull \hbox (badness 1194) in paragraph at lines 382--386
 [][][]\OT1/cmr/m/n/14.4 Development of Open-FOAM Solver for Com-press-ible Vis-
  []
@@ -1987,7 +1979,7 @@ Underfull \hbox (badness 6461) in paragraph at lines 416--425
 \OT1/cmr/m/n/14.4 TRANS-FER AND FLUID FLOW DOWN-STREAM OF AN
  []
 
-[75]
+[70]
 Underfull \hbox (badness 4673) in paragraph at lines 450--458
 []\OT1/cmr/m/n/14.4 Experimental and the-o-ret-i-cal in-ves-ti-ga-tion of backward-
  []
@@ -1997,14 +1989,14 @@ Underfull \hbox (badness 1253) in paragraph at lines 450--458
 \OT1/cmr/m/n/14.4 facing step flow / B. F. Ar-maly, F. Durst, J. C. F. Pereira,
  []
 
-)) [76]
+)) [71]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 65.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 65.
- (d:/git/GOSTSCW/rpz.aux (d:/git/GOSTSCW/Title.aux) (d:/git/GOSTSCW/intro.aux) (d:/git/GOSTSCW/Theory.aux) (d:/git/GOSTSCW/Simulation.aux) (d:/git/GOSTSCW/Conclusion.aux) (d:/git/GOSTSCW/81-biblio.aux))
+ (d:/git/DISER/rpz.aux (d:/git/DISER/Title.aux) (d:/git/DISER/intro.aux) (d:/git/DISER/Theory.aux) (d:/git/DISER/Simulation.aux) (d:/git/DISER/Conclusion.aux) (d:/git/DISER/81-biblio.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 65.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 65.
 Package rerunfilecheck Info: File `rpz.out' has not changed.
-(rerunfilecheck)             Checksum: 6DFB41721B7C11326D66D77CBA43C052;8240.
+(rerunfilecheck)             Checksum: 64CC39561B6B91ECBEA5E6C75CE36AD0;8240.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -2019,18 +2011,18 @@ LaTeX Warning: There were undefined references.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 65.
  ) 
 Here is how much of TeX's memory you used:
- 44481 strings out of 480875
- 979439 string characters out of 5911456
- 2715232 words of memory out of 5000000
+ 44472 strings out of 480875
+ 979232 string characters out of 5911456
+ 2716052 words of memory out of 5000000
  58635 multiletter control sequences out of 15000+600000
  570681 words of font info for 140 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 79i,20n,136p,5217b,2366s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 79i,20n,136p,5215b,2366s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}{c:/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm2488.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfti1440.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sftt1440.pfb>
-Output written on d:/git/GOSTSCW/rpz.pdf (76 pages, 10228704 bytes).
+Output written on d:/git/DISER/rpz.pdf (71 pages, 10202606 bytes).
 PDF statistics:
- 1280 PDF objects out of 1440 (max. 8388607)
- 1060 compressed objects within 11 object streams
- 327 named destinations out of 1000 (max. 500000)
+ 1245 PDF objects out of 1440 (max. 8388607)
+ 1030 compressed objects within 11 object streams
+ 318 named destinations out of 1000 (max. 500000)
  524 words of extra memory for PDF output out of 10000 (max. 10000000)
 

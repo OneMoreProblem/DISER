@@ -25,17 +25,6 @@
 \newblock P.~225--264. \BibDash
 \newblock Access mode: \BibUrl{https://doi.org/10.1080/03091927208236082}.
 
-\bibitem{ECHEVERRI2011}
-\selectlanguageifdefined{english}
-Tidally generated internal-wave attractors between double ridges~/
-  P.~ECHEVERRI, T.~YOKOSSI, N.~J.~BALMFORTH, T.~PEACOCK~//
-  \href{http://dx.doi.org/10.1017/s0022112010005069}{\BibEmph{Journal of Fluid
-  Mechanics}}. \BibDash
-\newblock 2011. \BibDash Jan. \BibDash
-\newblock Vol. 669. \BibDash
-\newblock P.~354--374. \BibDash
-\newblock Access mode: \BibUrl{https://doi.org/10.1017/s0022112010005069}.
-
 \bibitem{Sudolski}
 \selectlanguageifdefined{russian}
 \BibEmph{Сyдольский А.С.} Динамические явления в
@@ -154,6 +143,17 @@ Buoyancy frequency profiles and internal semidiurnal tide turning depths in the
 \newblock Vol.~20, no.~1. \BibDash
 \newblock P.~017508. \BibDash
 \newblock Access mode: \BibUrl{https://doi.org/10.1063/1.3273054}.
+
+\bibitem{ECHEVERRI2011}
+\selectlanguageifdefined{english}
+Tidally generated internal-wave attractors between double ridges~/
+  P.~ECHEVERRI, T.~YOKOSSI, N.~J.~BALMFORTH, T.~PEACOCK~//
+  \href{http://dx.doi.org/10.1017/s0022112010005069}{\BibEmph{Journal of Fluid
+  Mechanics}}. \BibDash
+\newblock 2011. \BibDash Jan. \BibDash
+\newblock Vol. 669. \BibDash
+\newblock P.~354--374. \BibDash
+\newblock Access mode: \BibUrl{https://doi.org/10.1017/s0022112010005069}.
 
 \bibitem{Guo2015}
 \selectlanguageifdefined{english}
