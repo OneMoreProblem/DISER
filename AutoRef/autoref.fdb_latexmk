@@ -1,5 +1,9 @@
 # Fdb version 3
+<<<<<<< HEAD
 ["pdflatex"] 1619108144 "d:/git/DISER/AutoRef/autoref.tex" "d:/git/DISER/AutoRef/autoref.pdf" "autoref" 1619108146
+=======
+["pdflatex"] 1616063483 "d:/git/DISER/AutoRef/autoref.tex" "d:/git/DISER/AutoRef/autoref.pdf" "autoref" 1616072921
+>>>>>>> text ready
   "G2-105.sty" 1611754146 23442 8df735441491f21fdc36c7d6a397ec46 ""
   "G7-32.cls" 1604062642 3092 d5bcd5a7839c8c05b85588ba1640c669 ""
   "G7-32.sty" 1604062642 5432 d4b699dcc5b3b8b37d292d5a60dbb605 ""
@@ -298,6 +302,7 @@
   "macros.inc.tex" 1604062643 67 700aa83b1455f6e893bcc44f371c6b77 ""
   "preamble.inc.tex" 1604062644 1993 d08f02f4548dafb95947e2cb1562150f ""
   (generated)
+<<<<<<< HEAD
   "autoref.pdf"
   "autoref.aux"
   "autoref.out"
@@ -307,3 +312,14 @@
   "macros.inc.aux"
   "preamble.inc.aux"
   "autoref.log"
+=======
+  "preamble.inc.aux"
+  "autoref.log"
+  "d:/git/DISER/AutoRef/autoref.pdf"
+  "autoref.aux"
+  "d:/git/DISER/AutoRef/autoref.log"
+  "autoref.out"
+  "macros.inc.aux"
+  "listings.inc.aux"
+  "autoref.pdf"
+>>>>>>> text ready

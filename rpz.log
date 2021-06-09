@@ -1,16 +1,16 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.9.28)  21 APR 2021 12:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.9.28)  9 JUN 2021 21:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**d:/git/DISER/rpz.tex
-(d:/git/DISER/rpz.tex
+**d:/git/DISERnew/rpz.tex
+(d:/git/DISERnew/rpz.tex
 LaTeX2e <2020-02-02> patch level 5
-L3 programming layer <2020-09-24> (d:/git/DISER/G7-32.cls
+L3 programming layer <2020-09-24> (d:/git/DISERnew/G7-32.cls
 Document Class: G7-32 2003/07/01 v1.0 Non Standard LaTeX document class
-(d:/git/DISER/G2-105.sty
+(d:/git/DISERnew/G2-105.sty
 Package: G2-105 2003/07/07 v1.00 General reqs. GOST 2.105-95
- (d:/git/DISER/GostBase.clo (c:/texlive/2020/texmf-dist/tex/latex/extsizes/size14.clo
+ (d:/git/DISERnew/GostBase.clo (c:/texlive/2020/texmf-dist/tex/latex/extsizes/size14.clo
 File: size14.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
 ))
 \c@totalpage=\count168
@@ -437,7 +437,7 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layouthoffset=\dimen160
 \Gm@layoutvoffset=\dimen161
 \Gm@dimlist=\toks29
-) (d:/git/DISER/G7-32.sty
+) (d:/git/DISERnew/G7-32.sty
 Package: G7-32 2003/07/07 v1.00 Titles for GOST 7.32-2001
 )) (c:/texlive/2020/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
@@ -503,6 +503,11 @@ LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 130.
 Package: subcaption 2020/08/23 v1.3g Sub-captions (AR)
 \c@subfigure=\count280
 \c@subtable=\count281
+) (c:/texlive/2020/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2019/11/10 v1.5r LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks30
+\verbatim@line=\toks31
+\verbatim@in@stream=\read3
 ) (c:/texlive/2020/texmf-dist/tex/latex/pgfplots/pgfplots.sty (c:/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplots.revision.tex)
 Package: pgfplots 2020/02/29 v1.17 Data Visualization (1.17)
  (c:/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
@@ -521,7 +526,7 @@ File: pdftex.def 2020/08/26 v1.2 Graphics/color driver for pdftex
 \Gin@req@height=\dimen172
 \Gin@req@width=\dimen173
 ) (c:/texlive/2020/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (c:/texlive/2020/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty (c:/texlive/2020/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (c:/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
-\pgfutil@everybye=\toks30
+\pgfutil@everybye=\toks32
 \pgfutil@tempdima=\dimen174
 \pgfutil@tempdimb=\dimen175
  (c:/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex)) (c:/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
@@ -535,10 +540,10 @@ Package: pgf 2020/01/08 v3.1.5b (3.1.5b)
  (c:/texlive/2020/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (c:/texlive/2020/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty (c:/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
 Package: pgfsys 2020/01/08 v3.1.5b (3.1.5b)
  (c:/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks31
-\pgfkeys@temptoks=\toks32
+\pgfkeys@pathtoks=\toks33
+\pgfkeys@temptoks=\toks34
  (c:/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
-\pgfkeys@tmptoks=\toks33
+\pgfkeys@tmptoks=\toks35
 ))
 \pgf@x=\dimen176
 \pgf@y=\dimen177
@@ -551,14 +556,14 @@ Package: pgfsys 2020/01/08 v3.1.5b (3.1.5b)
 \pgf@xd=\dimen184
 \pgf@yd=\dimen185
 \w@pgf@writea=\write3
-\r@pgf@reada=\read3
+\r@pgf@reada=\read4
 \c@pgf@counta=\count282
 \c@pgf@countb=\count283
 \c@pgf@countc=\count284
 \c@pgf@countd=\count285
-\t@pgf@toka=\toks34
-\t@pgf@tokb=\toks35
-\t@pgf@tokc=\toks36
+\t@pgf@toka=\toks36
+\t@pgf@tokb=\toks37
+\t@pgf@tokc=\toks38
 \pgf@sys@id@count=\count286
  (c:/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2020/01/08 v3.1.5b (3.1.5b)
@@ -595,9 +600,9 @@ Package: pgfcore 2020/01/08 v3.1.5b (3.1.5b)
 \pgfmath@dimen=\dimen186
 \pgfmath@count=\count289
 \pgfmath@box=\box54
-\pgfmath@toks=\toks37
-\pgfmath@stack@operand=\toks38
-\pgfmath@stack@operation=\toks39
+\pgfmath@toks=\toks39
+\pgfmath@stack@operand=\toks40
+\pgfmath@stack@operation=\toks41
 ) (c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex (c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex))) (c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
 \c@pgfmathroundto@lastzeros=\count290
 )) (c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfint.code.tex) (c:/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
@@ -681,8 +686,8 @@ Package: pgffor 2020/01/08 v3.1.5b (3.1.5b)
  (c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
 \pgffor@iter=\dimen269
 \pgffor@skip=\dimen270
-\pgffor@stack=\toks40
-\pgffor@toks=\toks41
+\pgffor@stack=\toks42
+\pgffor@toks=\toks43
 )) (c:/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
 Package: tikz 2020/01/08 v3.1.5b (3.1.5b)
  (c:/texlive/2020/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
@@ -716,9 +721,9 @@ File: pgfmodulematrix.code.tex 2020/01/08 v3.1.5b (3.1.5b)
  (c:/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 ))) (c:/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplots.code.tex (c:/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplotscore.code.tex
-\t@pgfplots@toka=\toks42
-\t@pgfplots@tokb=\toks43
-\t@pgfplots@tokc=\toks44
+\t@pgfplots@toka=\toks44
+\t@pgfplots@tokb=\toks45
+\t@pgfplots@tokc=\toks46
 \pgfplots@tmpa=\dimen280
 \c@pgfplots@coordindex=\count303
 \c@pgfplots@scanlineindex=\count304
@@ -726,7 +731,7 @@ File: tikzlibrarytopaths.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \c@pgfplotsarray@tmp=\count305
 ) (c:/texlive/2020/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsmatrix.code.tex) (c:/texlive/2020/texmf-dist/tex/generic/pgfplots/numtable/pgfplotstableshared.code.tex
 \c@pgfplotstable@counta=\count306
-\t@pgfplotstable@a=\toks45
+\t@pgfplotstable@a=\toks47
 ) (c:/texlive/2020/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsdeque.code.tex) (c:/texlive/2020/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.code.tex (c:/texlive/2020/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.data.code.tex)) (c:/texlive/2020/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.verb.code.tex) (c:/texlive/2020/texmf-dist/tex/generic/pgfplots/libs/pgflibrarypgfplots.surfshading.code.tex
 \c@pgfplotslibrarysurf@no=\count307
  (c:/texlive/2020/texmf-dist/tex/generic/pgfplots/sys/pgflibrarypgfplots.surfshading.pgfsys-pdftex.def))) (c:/texlive/2020/texmf-dist/tex/generic/pgfplots/util/pgfplotscolormap.code.tex (c:/texlive/2020/texmf-dist/tex/generic/pgfplots/util/pgfplotscolor.code.tex)) (c:/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplotsstackedplots.code.tex) (c:/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplotsplothandlers.code.tex (c:/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplothandler.code.tex (c:/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplotimage.code.tex))) (c:/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplots.scaling.code.tex) (c:/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplotscoordprocessing.code.tex) (c:/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplots.errorbars.code.tex) (c:/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplots.markers.code.tex) (c:/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplotsticks.code.tex) (c:/texlive/2020/texmf-dist/tex/generic/pgfplots/pgfplots.paths.code.tex) (c:/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.code.tex (c:/texlive/2020/texmf-dist/tex/generic/pgf/modules/pgfmoduledecorations.code.tex
@@ -766,8 +771,8 @@ Package: animate 2020/08/29 PDF & SVG animations from files and inline graphics
  (c:/texlive/2020/texmf-dist/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
  (c:/texlive/2020/texmf-dist/tex/generic/xkeyval/xkeyval.tex (c:/texlive/2020/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks46
-\XKV@tempa@toks=\toks47
+\XKV@toks=\toks48
+\XKV@tempa@toks=\toks49
 )
 \XKV@depth=\count310
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
@@ -825,7 +830,7 @@ Package: ocgbase 2019/11/04 v0.17 support package for ocgx2.sty
 \@anim@resizeflags=\count318
 \@anim@skipfram=\count319
 \@anim@mulframecnt=\count320
-\@anim@@tmlnfile=\read4
+\@anim@@tmlnfile=\read5
 \@anim@tmpcnt=\count321
 \c@@anim@ltxcnt=\count322
 \@anim@curlayer=\count323
@@ -850,7 +855,7 @@ File: pgfcalendar.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \@input{preamble.inc.aux}
 \openout2 = `preamble.inc.aux'.
 
-(d:/git/DISER/preamble.inc.tex (c:/texlive/2020/texmf-dist/tex/latex/hyperref/hyperref.sty
+(d:/git/DISERnew/preamble.inc.tex (c:/texlive/2020/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
  (c:/texlive/2020/texmf-dist/tex/generic/pdfescape/pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
@@ -998,9 +1003,11 @@ File: pgflibrarypatterns.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )) (c:/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryspy.code.tex
 File: tikzlibraryspy.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \tikz@lib@spybox=\box87
-) (c:/texlive/2020/texmf-dist/tex/latex/tools/enumerate.sty
+) (c:/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+) (c:/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.markings.code.tex (c:/texlive/2020/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.markings.code.tex)) (c:/texlive/2020/texmf-dist/tex/latex/tools/enumerate.sty
 Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
-\@enLab=\toks48
+\@enLab=\toks50
 ) (c:/texlive/2020/texmf-dist/tex/latex/multirow/multirow.sty
 Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
 \multirow@colwidth=\skip76
@@ -1013,13 +1020,13 @@ Package: paralist 2017/01/22 v2.7 Extended list environments
 \plpartopsep=\skip79
 \plitemsep=\skip80
 \plparsep=\skip81
-\pl@lab=\toks49
+\pl@lab=\toks51
 ) (c:/texlive/2020/texmf-dist/tex/latex/tools/array.sty
 Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
 \col@sep=\dimen302
 \ar@mcellbox=\box88
 \extrarowheight=\dimen303
-\NC@list=\toks50
+\NC@list=\toks52
 \extratabsurround=\skip82
 \backup@length=\skip83
 \ar@cellbox=\box89
@@ -1027,10 +1034,10 @@ Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
 \@input{listings.inc.aux}
 \openout2 = `listings.inc.aux'.
 
-(d:/git/DISER/listings.inc.tex (c:/texlive/2020/texmf-dist/tex/latex/listings/listings.sty
+(d:/git/DISERnew/listings.inc.tex (c:/texlive/2020/texmf-dist/tex/latex/listings/listings.sty
 \lst@mode=\count350
 \lst@gtempboxa=\box90
-\lst@token=\toks51
+\lst@token=\toks53
 \lst@length=\count351
 \lst@currlwidth=\dimen304
 \lst@column=\count352
@@ -1053,29 +1060,40 @@ Package: listings 2020/03/24 1.8d (Carsten Heinz)
 \@input{macros.inc.aux}
 \openout2 = `macros.inc.aux'.
 
-(d:/git/DISER/macros.inc.tex) (d:/git/DISER/rpz.aux (d:/git/DISER/Title.aux) (d:/git/DISER/intro.aux) (d:/git/DISER/Theory.aux) (d:/git/DISER/Simulation.aux) (d:/git/DISER/Conclusion.aux) (d:/git/DISER/81-biblio.aux))
+(d:/git/DISERnew/macros.inc.tex) (d:/git/DISERnew/rpz.aux (d:/git/DISERnew/Title.aux) (d:/git/DISERnew/00-intro.aux) (d:/git/DISERnew/01-observation.aux) (d:/git/DISERnew/02-methods.aux
+
+LaTeX Warning: Label `fig:domainup' multiply defined.
+
+) (d:/git/DISERnew/03-qhd.aux
+
+LaTeX Warning: Label `eq:qhd_Euler' multiply defined.
+
+
+LaTeX Warning: Label `eq:qhd_approx_momentum' multiply defined.
+
+) (d:/git/DISERnew/04-biharm.aux) (d:/git/DISERnew/99-Conclusion.aux) (d:/git/DISERnew/81-biblio.aux))
 \openout1 = `rpz.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
  (c:/texlive/2020/texmf-dist/tex/latex/ucs/ucsencs.def
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 )
@@ -1129,12 +1147,12 @@ Package caption Info: End \AtBeginDocument code.
 \scratchbox=\box92
 \nofMPsegments=\count359
 \nofMParguments=\count360
-\everyMPshowfont=\toks52
+\everyMPshowfont=\toks54
 \MPscratchCnt=\count361
 \MPscratchDim=\dimen309
 \MPnumerator=\count362
 \makeMPintoPDFobject=\count363
-\everyMPtoPDFconversion=\toks53
+\everyMPtoPDFconversion=\toks55
 ) (c:/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -1144,7 +1162,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 Package pgfplots notification 'compat/show suggested version=true': document has been generated with the most recent feature set (\pgfplotsset{compat=1.17}).
 
 \AtBeginShipoutBox=\box93
-Package hyperref Info: Link coloring ON on input line 33.
+Package hyperref Info: Link coloring ON on input line 35.
 (c:/texlive/2020/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
  (c:/texlive/2020/texmf-dist/tex/latex/refcount/refcount.sty
@@ -1154,17 +1172,17 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count364
 )
-LaTeX Info: Redefining \ref on input line 33.
-LaTeX Info: Redefining \pageref on input line 33.
-LaTeX Info: Redefining \nameref on input line 33.
- (d:/git/DISER/rpz.out) (d:/git/DISER/rpz.out)
+LaTeX Info: Redefining \ref on input line 35.
+LaTeX Info: Redefining \pageref on input line 35.
+LaTeX Info: Redefining \nameref on input line 35.
+ (d:/git/DISERnew/rpz.out) (d:/git/DISERnew/rpz.out)
 \@outlinefile=\write4
 \openout4 = `rpz.out'.
 
 \c@lstlisting=\count365
 \openout2 = `Title.aux'.
 
- (d:/git/DISER/Title.tex
+ (d:/git/DISERnew/Title.tex
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: <default>
@@ -1209,7 +1227,7 @@ File: uni-4.def 2013/05/13 UCS: Unicode data U+0400..U+04FF
 
 
 
-{c:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]) (d:/git/DISER/rpz.toc<<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
+{c:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]) (d:/git/DISERnew/rpz.toc<<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
 LaTeX Font Info:    Trying to load font information for U+msa on input line 2.
  (c:/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -1258,288 +1276,390 @@ LaTeX Font Info:    No file PUcmr.fd. on input line 2.
 LaTeX Font Warning: Font shape `PU/cmr/m/up' undefined
 (Font)              using `PU/pdf/m/n' instead on input line 2.
 
-)
+[2
+\FN@pp@footnotehinttrue 
+
+\FN@pp@footnotehinttrue 
+
+
+])
 \tf@toc=\write5
 \openout5 = `rpz.toc'.
 
- [2
-\FN@pp@footnotehinttrue 
+ [3]
+\openout2 = `00-intro.aux'.
 
-\FN@pp@footnotehinttrue 
-
-
-]
-\openout2 = `intro.aux'.
-
- (d:/git/DISER/intro.tex [3
+ (d:/git/DISERnew/00-intro.tex [4
 
 
-] [4] (c:/texlive/2020/texmf-dist/tex/latex/ucs/data/uni-32.def
+] [5] (c:/texlive/2020/texmf-dist/tex/latex/ucs/data/uni-32.def
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
-) [5]
-Underfull \hbox (badness 10000) in paragraph at lines 126--127
+) [6] [7]
+Underfull \hbox (badness 10000) in paragraph at lines 129--130
 []\T2A/cmr/m/n/14.4 Открытая меж^^?ду^^?на^^?род^^?ная кон^^?фе^^?рен^^?ция ИСП РАН им.
  []
 
-[6] (c:/texlive/2020/texmf-dist/tex/latex/ucs/data/uni-0.def
+(c:/texlive/2020/texmf-dist/tex/latex/ucs/data/uni-0.def
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
-) [7] [8
+) [8]) [9]
+\openout2 = `01-observation.aux'.
 
-] [9]) [10]
-\openout2 = `Theory.aux'.
+ (d:/git/DISERnew/01-observation.tex
+<Figs/FRAM.jpg, id=244, 168.63pt x 207.6558pt>
+File: Figs/FRAM.jpg Graphic file (type jpg)
+<use Figs/FRAM.jpg>
+Package pdftex.def Info: Figs/FRAM.jpg  used on input line 11.
+(pdftex.def)             Requested size: 455.24411pt x 560.61478pt.
+<Figs/800px-Fridtjof_Nansen.jpg, id=245, 96.36pt x 112.0185pt>
+File: Figs/800px-Fridtjof_Nansen.jpg Graphic file (type jpg)
+<use Figs/800px-Fridtjof_Nansen.jpg>
+Package pdftex.def Info: Figs/800px-Fridtjof_Nansen.jpg  used on input line 18.
+(pdftex.def)             Requested size: 240.89935pt x 280.0455pt.
+ [10
 
- (d:/git/DISER/Theory.tex
 
-LaTeX Font Warning: Command \large invalid in math mode on input line 11.
+
+] [11 <d:/git/DISERnew/Figs/FRAM.jpg>]
+<Figs/marshl_jukov.jpg, id=263, 642.4pt x 407.5225pt>
+File: Figs/marshl_jukov.jpg Graphic file (type jpg)
+<use Figs/marshl_jukov.jpg>
+Package pdftex.def Info: Figs/marshl_jukov.jpg  used on input line 35.
+(pdftex.def)             Requested size: 321.19922pt x 203.76074pt.
+ [12] [13 <d:/git/DISERnew/Figs/800px-Fridtjof_Nansen.jpg> <d:/git/DISERnew/Figs/marshl_jukov.jpg>] [14]
+<pics/tempDistrib.jpg, id=329, 281.55188pt x 307.90031pt>
+File: pics/tempDistrib.jpg Graphic file (type jpg)
+<use pics/tempDistrib.jpg>
+Package pdftex.def Info: pics/tempDistrib.jpg  used on input line 65.
+(pdftex.def)             Requested size: 281.55118pt x 307.89955pt.
+ [15]
+<pics/salinityAndNVsDepth.png, id=350, 771.63281pt x 563.85657pt>
+File: pics/salinityAndNVsDepth.png Graphic file (type png)
+<use pics/salinityAndNVsDepth.png>
+Package pdftex.def Info: pics/salinityAndNVsDepth.png  used on input line 85.
+(pdftex.def)             Requested size: 462.98326pt x 338.31654pt.
+
+Overfull \hbox (7.73915pt too wide) in paragraph at lines 85--86
+ [][] 
+ []
+
+[16] [17 <d:/git/DISERnew/pics/tempDistrib.jpg> <d:/git/DISERnew/pics/salinityAndNVsDepth.png>]
+<pics/IntGen.png, id=372, 725.71124pt x 326.72063pt>
+File: pics/IntGen.png Graphic file (type png)
+<use pics/IntGen.png>
+Package pdftex.def Info: pics/IntGen.png  used on input line 103.
+(pdftex.def)             Requested size: 435.4301pt x 196.03387pt.
+ [18 <d:/git/DISERnew/pics/IntGen.png>]
+<Figs/Forces.png, id=401, 483.30562pt x 268.75406pt>
+File: Figs/Forces.png Graphic file (type png)
+<use Figs/Forces.png>
+Package pdftex.def Info: Figs/Forces.png  used on input line 116.
+(pdftex.def)             Requested size: 386.64502pt x 215.00354pt.
+ [19] [20]
+
+LaTeX Font Warning: Command \large invalid in math mode on input line 186.
 
 LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <17.28> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 13.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 188.
 LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <12> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 13.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 188.
 LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <17.28> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 13.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 188.
 LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 13.
-LaTeX Font Info:    Calculating math sizes for size <> on input line 13.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 188.
+LaTeX Font Info:    Calculating math sizes for size <> on input line 188.
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <> not available
-(Font)              size <5> substituted on input line 13.
+(Font)              size <5> substituted on input line 188.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <0.7> not available
-(Font)              size <5> substituted on input line 13.
+(Font)              size <5> substituted on input line 188.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <0.5> not available
-(Font)              size <5> substituted on input line 13.
+(Font)              size <5> substituted on input line 188.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <> not available
-(Font)              size <5> substituted on input line 13.
+(Font)              size <5> substituted on input line 188.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <0.7> not available
-(Font)              size <5> substituted on input line 13.
+(Font)              size <5> substituted on input line 188.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <0.5> not available
-(Font)              size <5> substituted on input line 13.
+(Font)              size <5> substituted on input line 188.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <> not available
-(Font)              size <5> substituted on input line 13.
+(Font)              size <5> substituted on input line 188.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <0.7> not available
-(Font)              size <5> substituted on input line 13.
+(Font)              size <5> substituted on input line 188.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <0.5> not available
-(Font)              size <5> substituted on input line 13.
+(Font)              size <5> substituted on input line 188.
 
 LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 13.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 188.
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <> not available
-(Font)              size <5> substituted on input line 13.
+(Font)              size <5> substituted on input line 188.
 
 LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <0.7> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 13.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 188.
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <0.7> not available
-(Font)              size <5> substituted on input line 13.
+(Font)              size <5> substituted on input line 188.
 
 LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <0.5> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 13.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 188.
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <0.5> not available
-(Font)              size <5> substituted on input line 13.
+(Font)              size <5> substituted on input line 188.
 
 LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 13.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 188.
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <> not available
-(Font)              size <5> substituted on input line 13.
+(Font)              size <5> substituted on input line 188.
 
 LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <0.7> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 13.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 188.
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <0.7> not available
-(Font)              size <5> substituted on input line 13.
+(Font)              size <5> substituted on input line 188.
 
 LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <0.5> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 13.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 188.
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <0.5> not available
-(Font)              size <5> substituted on input line 13.
+(Font)              size <5> substituted on input line 188.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <> not available
-(Font)              size <5> substituted on input line 13.
+(Font)              size <5> substituted on input line 188.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <0.7> not available
-(Font)              size <5> substituted on input line 13.
+(Font)              size <5> substituted on input line 188.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <0.5> not available
-(Font)              size <5> substituted on input line 13.
+(Font)              size <5> substituted on input line 188.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <> not available
-(Font)              size <5> substituted on input line 13.
+(Font)              size <5> substituted on input line 188.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <0.7> not available
-(Font)              size <5> substituted on input line 13.
+(Font)              size <5> substituted on input line 188.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <0.5> not available
-(Font)              size <5> substituted on input line 13.
+(Font)              size <5> substituted on input line 188.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <> not available
-(Font)              size <5> substituted on input line 13.
+(Font)              size <5> substituted on input line 188.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <0.7> not available
-(Font)              size <5> substituted on input line 13.
+(Font)              size <5> substituted on input line 188.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <0.5> not available
-(Font)              size <5> substituted on input line 13.
+(Font)              size <5> substituted on input line 188.
 
 LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <14.4> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 14.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 189.
 LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <14.4> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 14.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 189.
 
-LaTeX Font Warning: Command \large invalid in math mode on input line 16.
-
-
-LaTeX Font Warning: Command \large invalid in math mode on input line 20.
-
-[11
+LaTeX Font Warning: Command \large invalid in math mode on input line 191.
 
 
+LaTeX Font Warning: Command \large invalid in math mode on input line 195.
 
-]
-Overfull \hbox (4.36151pt too wide) detected at line 44
-[][][] \OT1/cmr/m/n/14.4 + \OMS/cmsy/m/n/14.4 r ^^A [] ^^@ r ^^A \OML/cmm/m/it/14.4 ^^W [] \OMS/cmsy/m/n/14.4 ^^@ r ^^A [] \OT1/cmr/m/n/14.4 = \OMS/cmsy/m/n/14.4 ^^@[]r[] \OT1/cmr/m/n/14.4 + []\OML/cmm/m/it/14.4 ;
- []
+[21]
 
-[12] [13]
-
-LaTeX Warning: Command \cyri invalid in math mode on input line 95.
+LaTeX Warning: Command \cyri invalid in math mode on input line 208.
 
 Missing character: There is no и in font cmr12!
 
-Underfull \hbox (badness 4913) in paragraph at lines 115--116
+Underfull \hbox (badness 4913) in paragraph at lines 228--229
 []\T2A/cmr/m/n/14.4 В даль^^?ней^^?шем пред^^?по^^?ла^^?га^^?ет^^?ся, что воз^^?му^^?ще^^?ния плот^^?но^^?сти
  []
 
-[14]
+[22]
 
-LaTeX Warning: Command \cyri invalid in math mode on input line 159.
-
-
-LaTeX Warning: Command \cyrl invalid in math mode on input line 159.
+LaTeX Warning: Command \cyri invalid in math mode on input line 272.
 
 
-LaTeX Warning: Command \cyri invalid in math mode on input line 159.
+LaTeX Warning: Command \cyrl invalid in math mode on input line 272.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 272.
 
 Missing character: There is no и in font cmr12!
 Missing character: There is no л in font cmr12!
 Missing character: There is no и in font cmr12!
-[15]
-<Figs/Experement_Erm.png, id=322, 411.78844pt x 456.95718pt>
+[23]
+<Figs/Experement_Erm.png, id=491, 411.78844pt x 456.95718pt>
 File: Figs/Experement_Erm.png Graphic file (type png)
 <use Figs/Experement_Erm.png>
-Package pdftex.def Info: Figs/Experement_Erm.png  used on input line 173.
+Package pdftex.def Info: Figs/Experement_Erm.png  used on input line 286.
 (pdftex.def)             Requested size: 205.8937pt x 228.47803pt.
-<Figs/angle_of_reflection.png, id=325, 921.4425pt x 400.49625pt>
+<Figs/angle_of_reflection.png, id=496, 921.4425pt x 400.49625pt>
 File: Figs/angle_of_reflection.png Graphic file (type png)
 <use Figs/angle_of_reflection.png>
-Package pdftex.def Info: Figs/angle_of_reflection.png  used on input line 187.
+Package pdftex.def Info: Figs/angle_of_reflection.png  used on input line 301.
 (pdftex.def)             Requested size: 460.72012pt x 200.24763pt.
 
-Overfull \hbox (5.47601pt too wide) in paragraph at lines 187--188
+Overfull \hbox (5.47601pt too wide) in paragraph at lines 301--302
  [][] 
  []
 
-[16 <d:/git/DISER/Figs/Experement_Erm.png (PNG copy)>]
-<Figs/RayTracing.png, id=335, 351.56343pt x 234.8775pt>
+<Figs/RayTracing.png, id=498, 351.56343pt x 234.8775pt>
 File: Figs/RayTracing.png Graphic file (type png)
 <use Figs/RayTracing.png>
-Package pdftex.def Info: Figs/RayTracing.png  used on input line 196.
+Package pdftex.def Info: Figs/RayTracing.png  used on input line 310.
 (pdftex.def)             Requested size: 281.25111pt x 187.90225pt.
+[24] [25 <d:/git/DISERnew/Figs/Forces.png> <d:/git/DISERnew/Figs/Experement_Erm.png (PNG copy)>] [26 <d:/git/DISERnew/Figs/angle_of_reflection.png> <d:/git/DISERnew/Figs/RayTracing.png (PNG copy)>]) [27]
+\openout2 = `02-methods.aux'.
 
-Overfull \hbox (19.88243pt too wide) in paragraph at lines 246--247
+ (d:/git/DISERnew/02-methods.tex [28
+
+
+
+] [29]
+Overfull \hbox (19.88243pt too wide) in paragraph at lines 85--86
  [][] 
  []
 
 
-Overfull \hbox (16.63246pt too wide) in paragraph at lines 266--267
+Overfull \hbox (16.63246pt too wide) in paragraph at lines 105--106
  [][] 
  []
 
-[17] [18 <d:/git/DISER/Figs/angle_of_reflection.png> <d:/git/DISER/Figs/RayTracing.png (PNG copy)>]
-<Figs/RayTr923x1455.jpeg, id=352, 454.69875pt x 313.17pt>
+<Figs/RayTr923x1455.jpeg, id=562, 454.69875pt x 313.17pt>
 File: Figs/RayTr923x1455.jpeg Graphic file (type jpg)
 <use Figs/RayTr923x1455.jpeg>
-Package pdftex.def Info: Figs/RayTr923x1455.jpeg  used on input line 278.
+Package pdftex.def Info: Figs/RayTr923x1455.jpeg  used on input line 117.
 (pdftex.def)             Requested size: 204.61253pt x 140.92519pt.
 LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <8> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 279.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 118.
 LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <6> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 279.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 118.
 LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <8> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 279.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 118.
 LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <6> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 279.
-<Figs/RTdtau.png, id=353, 340.27126pt x 325.215pt>
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 118.
+<Figs/RTdtau.png, id=563, 340.27126pt x 325.215pt>
 File: Figs/RTdtau.png Graphic file (type png)
 <use Figs/RTdtau.png>
-Package pdftex.def Info: Figs/RTdtau.png  used on input line 283.
+Package pdftex.def Info: Figs/RTdtau.png  used on input line 122.
 (pdftex.def)             Requested size: 153.12064pt x 146.3454pt.
-) [19] [20 <d:/git/DISER/Figs/RayTr923x1455.jpeg> <d:/git/DISER/Figs/RTdtau.png>]
-\openout2 = `Simulation.aux'.
-
- (d:/git/DISER/Simulation.tex [21
-
-
-
-] [22] [23]
-<pics/H40L60N1ap02dp20w0p63/2D36x36DiagramH40L60N1ap02dp20w0p63Vyn06179.png, id=403, 1027.84pt x 702.625pt>
+<pics/KEandLyap.png, id=566, 406.1574pt x 264.7491pt>
+File: pics/KEandLyap.png Graphic file (type png)
+<use pics/KEandLyap.png>
+Package pdftex.def Info: pics/KEandLyap.png  used on input line 135.
+(pdftex.def)             Requested size: 406.1564pt x 264.74844pt.
+[30] [31 <d:/git/DISERnew/Figs/RayTr923x1455.jpeg> <d:/git/DISERnew/Figs/RTdtau.png>]
+<Figs/CritAttrFreq.png, id=589, 373.395pt x 386.44376pt>
+File: Figs/CritAttrFreq.png Graphic file (type png)
+<use Figs/CritAttrFreq.png>
+Package pdftex.def Info: Figs/CritAttrFreq.png  used on input line 164.
+(pdftex.def)             Requested size: 298.7164pt x 309.15543pt.
+<Figs/AttrCritFreq.png, id=591, 456.70625pt x 351.3125pt>
+File: Figs/AttrCritFreq.png Graphic file (type png)
+<use Figs/AttrCritFreq.png>
+Package pdftex.def Info: Figs/AttrCritFreq.png  used on input line 185.
+(pdftex.def)             Requested size: 274.02585pt x 210.78911pt.
+<Figs/AttrNEKcrit1.png, id=593, 819.06pt x 240.14719pt>
+File: Figs/AttrNEKcrit1.png Graphic file (type png)
+<use Figs/AttrNEKcrit1.png>
+Package pdftex.def Info: Figs/AttrNEKcrit1.png  used on input line 197.
+(pdftex.def)             Requested size: 368.5736pt x 108.06522pt.
+<Figs/AttrNekCrit2.png, id=594, 813.0375pt x 237.13594pt>
+File: Figs/AttrNekCrit2.png Graphic file (type png)
+<use Figs/AttrNekCrit2.png>
+Package pdftex.def Info: Figs/AttrNekCrit2.png  used on input line 202.
+(pdftex.def)             Requested size: 365.8635pt x 106.71017pt.
+ [32] [33 <d:/git/DISERnew/pics/KEandLyap.png> <d:/git/DISERnew/Figs/CritAttrFreq.png>] [34 <d:/git/DISERnew/Figs/AttrCritFreq.png> <d:/git/DISERnew/Figs/AttrNEKcrit1.png> <d:/git/DISERnew/Figs/AttrNekCrit2.png>]
+<pics/SetupAttr.png, id=625, 686.565pt x 724.95844pt>
+File: pics/SetupAttr.png Graphic file (type png)
+<use pics/SetupAttr.png>
+Package pdftex.def Info: pics/SetupAttr.png  used on input line 233.
+(pdftex.def)             Requested size: 411.94218pt x 434.97841pt.
+ [35] [36 <d:/git/DISERnew/pics/SetupAttr.png>]
+<pics/wawemakerScheme.png, id=644, 849.1725pt x 437.38406pt>
+File: pics/wawemakerScheme.png Graphic file (type png)
+<use pics/wawemakerScheme.png>
+Package pdftex.def Info: pics/wawemakerScheme.png  used on input line 252.
+(pdftex.def)             Requested size: 424.5852pt x 218.69148pt.
+ [37 <d:/git/DISERnew/pics/wawemakerScheme.png>]
+<pics/WMplate.png, id=669, 708.39656pt x 635.37375pt>
+File: pics/WMplate.png Graphic file (type png)
+<use pics/WMplate.png>
+Package pdftex.def Info: pics/WMplate.png  used on input line 265.
+(pdftex.def)             Requested size: 318.7755pt x 285.91554pt.
+ [38 <d:/git/DISERnew/pics/WMplate.png>]
+<pics/Exp1997Maas.png, id=679, 336.50719pt x 284.56313pt>
+File: pics/Exp1997Maas.png Graphic file (type png)
+<use pics/Exp1997Maas.png>
+Package pdftex.def Info: pics/Exp1997Maas.png  used on input line 280.
+(pdftex.def)             Requested size: 201.90585pt x 170.73918pt.
+<pics/Exp1997MaasB.png, id=680, 295.1025pt x 258.21469pt>
+File: pics/Exp1997MaasB.png Graphic file (type png)
+<use pics/Exp1997MaasB.png>
+Package pdftex.def Info: pics/Exp1997MaasB.png  used on input line 286.
+(pdftex.def)             Requested size: 197.71764pt x 173.00293pt.
+ [39] [40] [41]
+<pics/H40L60N1ap02dp20w0p63/2D36x36DiagramH40L60N1ap02dp20w0p63Vyn06179.png, id=725, 1027.84pt x 702.625pt>
 File: pics/H40L60N1ap02dp20w0p63/2D36x36DiagramH40L60N1ap02dp20w0p63Vyn06179.png Graphic file (type png)
 <use pics/H40L60N1ap02dp20w0p63/2D36x36DiagramH40L60N1ap02dp20w0p63Vyn06179.png>
-Package pdftex.def Info: pics/H40L60N1ap02dp20w0p63/2D36x36DiagramH40L60N1ap02dp20w0p63Vyn06179.png  used on input line 105.
+Package pdftex.def Info: pics/H40L60N1ap02dp20w0p63/2D36x36DiagramH40L60N1ap02dp20w0p63Vyn06179.png  used on input line 398.
 (pdftex.def)             Requested size: 154.16934pt x 105.38919pt.
-<pics/H40L60N1ap02dp20w0p63/TFspectrumX356Y112N1024.png, id=404, 2331.46031pt x 1578.64781pt>
+<pics/H40L60N1ap02dp20w0p63/TFspectrumX356Y112N1024.png, id=726, 2331.46031pt x 1578.64781pt>
 File: pics/H40L60N1ap02dp20w0p63/TFspectrumX356Y112N1024.png Graphic file (type png)
 <use pics/H40L60N1ap02dp20w0p63/TFspectrumX356Y112N1024.png>
-Package pdftex.def Info: pics/H40L60N1ap02dp20w0p63/TFspectrumX356Y112N1024.png  used on input line 109.
+Package pdftex.def Info: pics/H40L60N1ap02dp20w0p63/TFspectrumX356Y112N1024.png  used on input line 402.
 (pdftex.def)             Requested size: 163.21889pt x 110.51663pt.
-<pics/H40L60N1ap02dp20w0p63/vyX355662118341Y112748618745t1000.png, id=405, 433.62pt x 289.08pt>
+<pics/H40L60N1ap02dp20w0p63/vyX355662118341Y112748618745t1000.png, id=727, 433.62pt x 289.08pt>
 File: pics/H40L60N1ap02dp20w0p63/vyX355662118341Y112748618745t1000.png Graphic file (type png)
 <use pics/H40L60N1ap02dp20w0p63/vyX355662118341Y112748618745t1000.png>
-Package pdftex.def Info: pics/H40L60N1ap02dp20w0p63/vyX355662118341Y112748618745t1000.png  used on input line 113.
+Package pdftex.def Info: pics/H40L60N1ap02dp20w0p63/vyX355662118341Y112748618745t1000.png  used on input line 406.
 (pdftex.def)             Requested size: 216.80946pt x 144.53964pt.
 
-Overfull \hbox (11.951pt too wide) in paragraph at lines 113--114
+Overfull \hbox (11.951pt too wide) in paragraph at lines 406--407
 [][] 
  []
 
-<pics/H40L60N1ap02dp20w0p63/2D36x36DiagramH40L60N1ap02dp20w0p63totKEnonDim.png, id=406, 462.528pt x 346.896pt>
+<pics/H40L60N1ap02dp20w0p63/2D36x36DiagramH40L60N1ap02dp20w0p63totKEnonDim.png, id=728, 462.528pt x 346.896pt>
 File: pics/H40L60N1ap02dp20w0p63/2D36x36DiagramH40L60N1ap02dp20w0p63totKEnonDim.png Graphic file (type png)
 <use pics/H40L60N1ap02dp20w0p63/2D36x36DiagramH40L60N1ap02dp20w0p63totKEnonDim.png>
-Package pdftex.def Info: pics/H40L60N1ap02dp20w0p63/2D36x36DiagramH40L60N1ap02dp20w0p63totKEnonDim.png  used on input line 117.
+Package pdftex.def Info: pics/H40L60N1ap02dp20w0p63/2D36x36DiagramH40L60N1ap02dp20w0p63totKEnonDim.png  used on input line 410.
 (pdftex.def)             Requested size: 185.0079pt x 138.75594pt.
-[24 <d:/git/DISER/pics/H40L60N1ap02dp20w0p63/2D36x36DiagramH40L60N1ap02dp20w0p63Vyn06179.png> <d:/git/DISER/pics/H40L60N1ap02dp20w0p63/TFspectrumX356Y112N1024.png> <d:/git/DISER/pics/H40L60N1ap02dp20w0p63/vyX355662118341Y112748618745t1000.png> <d:/git/DISER/pics/H40L60N1ap02dp20w0p63/2D36x36DiagramH40L60N1ap02dp20w0p63totKEnonDim.png>] [25] [26]
-<Figs/Attr200s.png, id=450, 501.37312pt x 333.49594pt>
+[42]
+<pics/b701170a-f6.jpeg, id=745, 160.34906pt x 155.07938pt>
+File: pics/b701170a-f6.jpeg Graphic file (type jpg)
+<use pics/b701170a-f6.jpeg>
+Package pdftex.def Info: pics/b701170a-f6.jpeg  used on input line 471.
+(pdftex.def)             Requested size: 160.34866pt x 155.07898pt.
+ [43] [44]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[45]
+<Figs/Attr200s.png, id=789, 501.37312pt x 333.49594pt>
 File: Figs/Attr200s.png Graphic file (type png)
 <use Figs/Attr200s.png>
-Package pdftex.def Info: Figs/Attr200s.png  used on input line 200.
+Package pdftex.def Info: Figs/Attr200s.png  used on input line 662.
 (pdftex.def)             Requested size: 455.24411pt x 302.82532pt.
 PGFPlots: reading {CSV/snappy180x180nCor4NonOrth4.csv}
 PGFPlots: reading {CSV/FVMnocor.csv}
@@ -1552,44 +1672,81 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no = in font nullfont!
 
 
-Package pgfplots Warning: You have an axis with empty range (in direction x). Replacing it with a default range and clearing all plots. on input line 227.
+Package pgfplots Warning: You have an axis with empty range (in direction x). Replacing it with a default range and clearing all plots. on input line 687.
 
  [warning /pgfplots/warning/empty range cleared axis]
+Missing character: There is no ; in font nullfont!
+PGFPlots: reading {CSV/U225x300A01w623corr31300_U.csv}
+PGFPlots: reading {CSV/U300x450A01w623corr31300_U.csv}
+PGFPlots: reading {CSV/U450x600A01w623corr31300_U.csv}
+Missing character: There is no , in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no ; in font nullfont!
+PGFPlots: reading {CSV/NEK300s0.csv}
+Missing character: There is no , in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no = in font nullfont!
 
-Overfull \hbox (14.5924pt too wide) in paragraph at lines 228--229
+Overfull \hbox (6.85747pt too wide) in paragraph at lines 713--714
  [][] 
  []
 
-[27 <d:/git/DISER/Figs/Attr200s.png (PNG copy)>] [28] [29]
-Underfull \hbox (badness 3557) in paragraph at lines 309--310
-[]\T2A/cmr/m/n/14.4 Метод Гаусса-^^?Остро^^?град^^?ско^^?го, вы^^?чис^^?ле^^?ние про^^?из^^?вод^^?ных осу^^?
+) [46] [47 <d:/git/DISERnew/pics/Exp1997Maas.png> <d:/git/DISERnew/pics/Exp1997MaasB.png>] [48 <d:/git/DISERnew/pics/H40L60N1ap02dp20w0p63/2D36x36DiagramH40L60N1ap02dp20w0p63Vyn06179.png> <d:/git/DISERnew/pics/H40L60N1ap02dp20w0p63/TFspectrumX356Y112N1024.png> <d:/git/DISERnew/pics/H40L60N1ap02dp20w0p63/vyX355662118341Y112748618745t1000.png> <d:/git/DISERnew/pics/H40L60N1ap02dp20w0p63/2D36x36DiagramH40L60N1ap02dp20w0p63totKEnonDim.png> <d:/git/DISERnew/pics/b701170a-f6.jpeg>] [49] [50 <d:/git/DISERnew/Figs/Attr200s.png (PNG copy)>] [51]
+\openout2 = `03-qhd.aux'.
+
+ (d:/git/DISERnew/03-qhd.tex [52
+
+
+]
+Overfull \hbox (9.86153pt too wide) detected at line 27
+[][][] \OT1/cmr/m/n/14.4 + \OMS/cmsy/m/n/14.4 r ^^A [] ^^@ r ^^A \OML/cmm/m/it/14.4 ^^W [] \OMS/cmsy/m/n/14.4 ^^@ r ^^A [] \OT1/cmr/m/n/14.4 = \OMS/cmsy/m/n/14.4 ^^@[]r[] \OT1/cmr/m/n/14.4 + []\OML/cmm/m/it/14.4 ;
  []
 
-Missing character: There is no ` in font nullfont!
-[30]
+[53]
+Underfull \hbox (badness 1205) in paragraph at lines 38--39
+[]$[]$ \T2A/cmr/m/n/14.4 -- до^^?пол^^?ни^^?тель^^?ная ско^^?рость, ко^^?то^^?рая участ^^?ву^^?ет в урав^^?не^^?
+ []
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+[54] [55] [56]
+Underfull \hbox (badness 1796) in paragraph at lines 166--167
+[]\T2A/cmr/m/n/14.4 метод по^^?ни^^?жен^^?но^^?го по^^?ряд^^?ка, пред^^?по^^?ла^^?га^^?ю^^?щий ис^^?поль^^?зо^^?ва^^?ние
+ []
 
-[31] [32]
-LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 424.
+[57] [58]
+LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 277.
  (c:/texlive/2020/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
 File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+) [59] [60] (c:/texlive/2020/texmf-dist/tex/latex/cyrillic/koi8-r.def
+File: koi8-r.def 2014/10/28 v1.0d Input encoding file
+) (c:/texlive/2020/texmf-dist/tex/latex/cyrillic/koi8-r.def
+File: koi8-r.def 2014/10/28 v1.0d Input encoding file
+) (c:/texlive/2020/texmf-dist/tex/latex/cyrillic/koi8-r.def
+File: koi8-r.def 2014/10/28 v1.0d Input encoding file
 ) (c:/texlive/2020/texmf-dist/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 2014/10/28 v1.0d Input encoding file
 ) (c:/texlive/2020/texmf-dist/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 2014/10/28 v1.0d Input encoding file
 ) (c:/texlive/2020/texmf-dist/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 2014/10/28 v1.0d Input encoding file
-)
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[33] [34]
-Underfull \hbox (badness 1308) in paragraph at lines 543--544
+) (c:/texlive/2020/texmf-dist/tex/latex/cyrillic/koi8-r.def
+File: koi8-r.def 2014/10/28 v1.0d Input encoding file
+) [61] [62] [63] (c:/texlive/2020/texmf-dist/tex/latex/cyrillic/koi8-r.def
+File: koi8-r.def 2014/10/28 v1.0d Input encoding file
+) (c:/texlive/2020/texmf-dist/tex/latex/cyrillic/koi8-r.def
+File: koi8-r.def 2014/10/28 v1.0d Input encoding file
+) [64] [65]
+Underfull \hbox (badness 1308) in paragraph at lines 551--552
 \T2A/cmr/m/n/14.4 срав^^?ни^^?ва^^?ют^^?ся с те^^?ми же ком^^?по^^?нен^^?та^^?ми по^^?лу^^?чен^^?ны^^?ми при по^^?мо^^?щи
  []
 
-[35]
+[66]
 PGFPlots: reading {PISOVSQHD/PISOUxVSY100Re20.csv}
 PGFPlots: reading {PISOVSQHD/PISOUxVSY100Re40.csv}
 PGFPlots: reading {PISOVSQHD/QHDUxVSY100Re20.csv}
@@ -1637,8 +1794,8 @@ PGFPlots: reading {PISOVSQHD/QHD15UyVSX1000Re80Tu24.csv}
 PGFPlots: reading {PISOVSQHD/QHD15UyVSX1000Re80Tu10.csv}
 PGFPlots: reading {PISOVSQHD/QHD15UyVSX1000Re80Tu5.csv}
 Missing character: There is no ; in font nullfont!
-Package pgfplots info on input line 693: Using 'lua backend=false' for axis: xmode=log unsupported (yet).
-Package pgfplots info on input line 693: Using 'lua backend=false' for axis: ymode=log unsupported (yet).
+Package pgfplots info on input line 701: Using 'lua backend=false' for axis: xmode=log unsupported (yet).
+Package pgfplots info on input line 701: Using 'lua backend=false' for axis: ymode=log unsupported (yet).
 PGFPlots: reading {PISOVSQHD/meshConv.csv}
 PGFPlots: reading {PISOVSQHD/meshConvEth.csv}
 PGFPlots: reading {PISOVSQHD/meshConvEth1Ord.csv}
@@ -1649,31 +1806,48 @@ PGFPlots: reading {CSV/AllTau.csv}
 PGFPlots: reading {CSV/AllTau.csv}
 PGFPlots: reading {CSV/AllTau.csv}
 PGFPlots: reading {CSV/AllTau.csv}
+<pics/StreamlinesAtPressureCrop.png, id=1184, 2188.42593pt x 905.63344pt>
+File: pics/StreamlinesAtPressureCrop.png Graphic file (type png)
+<use pics/StreamlinesAtPressureCrop.png>
+Package pdftex.def Info: pics/StreamlinesAtPressureCrop.png  used on input line 736.
+(pdftex.def)             Requested size: 216.12416pt x 89.4355pt.
 
-LaTeX Warning: Reference `fig:backwardStepScratch' on page 36 undefined on input line 728.
+Overfull \hbox (14.115pt too wide) in paragraph at lines 748--749
+[][] 
+ []
 
-[36]
+<pics/StreamlinesAtPressureCropTikz30.png, id=1185, 1286.55656pt x 347.04657pt>
+File: pics/StreamlinesAtPressureCropTikz30.png Graphic file (type png)
+<use pics/StreamlinesAtPressureCropTikz30.png>
+Package pdftex.def Info: pics/StreamlinesAtPressureCropTikz30.png  used on input line 754.
+(pdftex.def)             Requested size: 235.58597pt x 63.54596pt.
 
-LaTeX Warning: Text page 37 contains only floats.
+Overfull \hbox (33.69107pt too wide) in paragraph at lines 767--768
+ [][] 
+ []
 
-[37] [38]
+[67]
+
+LaTeX Warning: Text page 68 contains only floats.
+
+[68]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<pics/Re100.png, id=631, 1039.63406pt x 262.73157pt>
+<pics/Re100.png, id=1208, 1039.63406pt x 262.73157pt>
 File: pics/Re100.png Graphic file (type png)
 <use pics/Re100.png>
-Package pdftex.def Info: pics/Re100.png  used on input line 760.
+Package pdftex.def Info: pics/Re100.png  used on input line 810.
 (pdftex.def)             Requested size: 415.84625pt x 105.09076pt.
-<pics/Re200.png, id=632, 1034.36438pt x 251.43938pt>
+<pics/Re200.png, id=1209, 1034.36438pt x 251.43938pt>
 File: pics/Re200.png Graphic file (type png)
 <use pics/Re200.png>
-Package pdftex.def Info: pics/Re200.png  used on input line 765.
+Package pdftex.def Info: pics/Re200.png  used on input line 815.
 (pdftex.def)             Requested size: 413.73842pt x 100.57396pt.
-<pics/Re400.png, id=633, 1036.62282pt x 259.7203pt>
+<pics/Re400.png, id=1210, 1036.62282pt x 259.7203pt>
 File: pics/Re400.png Graphic file (type png)
 <use pics/Re400.png>
-Package pdftex.def Info: pics/Re400.png  used on input line 770.
+Package pdftex.def Info: pics/Re400.png  used on input line 820.
 (pdftex.def)             Requested size: 414.64178pt x 103.88628pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -1681,21 +1855,35 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<pics/Umag.png, id=648, 340.27126pt x 367.3725pt>
+<pics/Umag.png, id=1225, 340.27126pt x 367.3725pt>
 File: pics/Umag.png Graphic file (type png)
 <use pics/Umag.png>
-Package pdftex.def Info: pics/Umag.png  used on input line 824.
+Package pdftex.def Info: pics/Umag.png  used on input line 875.
 (pdftex.def)             Requested size: 306.24129pt x 330.63217pt.
-[39]
-
-LaTeX Warning: Text page 40 contains only floats.
-
-
-Overfull \vbox (1.91644pt too high) has occurred while \output is active []
-
- [40]
+[69]
 PGFPlots: reading {CSV/NEK5000.csv}
 PGFPlots: reading {CSV/QHD480x320.csv}
+
+
+Package pgfplots Warning: Table 'CSV/QHD480x320.csv' has an empty column name; replacing it by '7'' on input line 914.
+
+ [warning /pgfplots/warning/empty column name]
+
+Package pgfplots Warning: Table 'CSV/QHD480x320.csv' has an empty column name; replacing it by '8'' on input line 914.
+
+ [warning /pgfplots/warning/empty column name]
+
+Package pgfplots Warning: Table 'CSV/QHD480x320.csv' has an empty column name; replacing it by '9'' on input line 914.
+
+ [warning /pgfplots/warning/empty column name]
+
+Package pgfplots Warning: Table 'CSV/QHD480x320.csv' has an empty column name; replacing it by '10'' on input line 914.
+
+ [warning /pgfplots/warning/empty column name]
+
+Package pgfplots Warning: Table 'CSV/QHD480x320.csv' has an empty column name; replacing it by '11'' on input line 914.
+
+ [warning /pgfplots/warning/empty column name]
 PGFPlots: reading {CSV/QHD240x160.csv}
 PGFPlots: reading {CSV/QHD240x1602tau.csv}
 Missing character: There is no , in font nullfont!
@@ -1705,15 +1893,15 @@ Missing character: There is no n in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no = in font nullfont!
 LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <24.88> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 871.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 921.
 LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <20.74> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 871.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 921.
 LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <24.88> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 871.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 921.
 LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <20.74> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 871.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 921.
 
-Overfull \hbox (3.5345pt too wide) in paragraph at lines 873--874
+Overfull \hbox (3.5345pt too wide) in paragraph at lines 923--924
  [][] 
  []
 
@@ -1736,247 +1924,272 @@ Missing character: There is no n in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no = in font nullfont!
 
-Overfull \hbox (6.85747pt too wide) in paragraph at lines 897--898
+Overfull \hbox (6.85747pt too wide) in paragraph at lines 947--948
  [][] 
  []
 
-[41]
-<Figs/CritAttrFreq.png, id=679, 373.395pt x 386.44376pt>
-File: Figs/CritAttrFreq.png Graphic file (type png)
-<use Figs/CritAttrFreq.png>
-Package pdftex.def Info: Figs/CritAttrFreq.png  used on input line 927.
-(pdftex.def)             Requested size: 298.7164pt x 309.15543pt.
- [42]
-<Figs/AttrCritFreq.png, id=691, 456.70625pt x 351.3125pt>
-File: Figs/AttrCritFreq.png Graphic file (type png)
-<use Figs/AttrCritFreq.png>
-Package pdftex.def Info: Figs/AttrCritFreq.png  used on input line 948.
-(pdftex.def)             Requested size: 274.02585pt x 210.78911pt.
-<Figs/AttrNEKcrit1.png, id=693, 819.06pt x 240.14719pt>
-File: Figs/AttrNEKcrit1.png Graphic file (type png)
-<use Figs/AttrNEKcrit1.png>
-Package pdftex.def Info: Figs/AttrNEKcrit1.png  used on input line 960.
-(pdftex.def)             Requested size: 368.5736pt x 108.06522pt.
-<Figs/AttrNekCrit2.png, id=694, 813.0375pt x 237.13594pt>
-File: Figs/AttrNekCrit2.png Graphic file (type png)
-<use Figs/AttrNekCrit2.png>
-Package pdftex.def Info: Figs/AttrNekCrit2.png  used on input line 965.
-(pdftex.def)             Requested size: 365.8635pt x 106.71017pt.
- [43]
-<pics/H40L60N1ap02dp20w1p58w2p66Biharm/2D36x36DiagramH40L60N1ap02dp20w1p58w2p66BiharmVyn06129.png, id=709, 2055.68pt x 1405.25pt>
-File: pics/H40L60N1ap02dp20w1p58w2p66Biharm/2D36x36DiagramH40L60N1ap02dp20w1p58w2p66BiharmVyn06129.png Graphic file (type png)
-<use pics/H40L60N1ap02dp20w1p58w2p66Biharm/2D36x36DiagramH40L60N1ap02dp20w1p58w2p66BiharmVyn06129.png>
-Package pdftex.def Info: pics/H40L60N1ap02dp20w1p58w2p66Biharm/2D36x36DiagramH40L60N1ap02dp20w1p58w2p66BiharmVyn06129.png  used on input line 1009.
-(pdftex.def)             Requested size: 204.85846pt x 140.04005pt.
-<pics/H40L60N1ap02dp20w1p58w2p66Biharm/2D36x36DiagramH40L60N1ap02dp20w1p58w2p66BiharmVy6129.png, id=710, 2055.68pt x 1405.25pt>
-File: pics/H40L60N1ap02dp20w1p58w2p66Biharm/2D36x36DiagramH40L60N1ap02dp20w1p58w2p66BiharmVy6129.png Graphic file (type png)
-<use pics/H40L60N1ap02dp20w1p58w2p66Biharm/2D36x36DiagramH40L60N1ap02dp20w1p58w2p66BiharmVy6129.png>
-Package pdftex.def Info: pics/H40L60N1ap02dp20w1p58w2p66Biharm/2D36x36DiagramH40L60N1ap02dp20w1p58w2p66BiharmVy6129.png  used on input line 1013.
-(pdftex.def)             Requested size: 204.85846pt x 140.04005pt.
-<pics/H40L60N1ap02dp20w1p58w2p66Biharm/vyX36p49Y7p94frm280to300.png, id=711, 433.62pt x 289.08pt>
-File: pics/H40L60N1ap02dp20w1p58w2p66Biharm/vyX36p49Y7p94frm280to300.png Graphic file (type png)
-<use pics/H40L60N1ap02dp20w1p58w2p66Biharm/vyX36p49Y7p94frm280to300.png>
-Package pdftex.def Info: pics/H40L60N1ap02dp20w1p58w2p66Biharm/vyX36p49Y7p94frm280to300.png  used on input line 1018.
-(pdftex.def)             Requested size: 204.85846pt x 136.57336pt.
-<pics/H40L60N1ap02dp20w1p58w2p66Biharm/2D36x36DiagramH40L60N1ap02dp20w1p58w2p66BiharmtotKEnonDim.png, id=712, 462.528pt x 346.896pt>
-File: pics/H40L60N1ap02dp20w1p58w2p66Biharm/2D36x36DiagramH40L60N1ap02dp20w1p58w2p66BiharmtotKEnonDim.png Graphic file (type png)
-<use pics/H40L60N1ap02dp20w1p58w2p66Biharm/2D36x36DiagramH40L60N1ap02dp20w1p58w2p66BiharmtotKEnonDim.png>
-Package pdftex.def Info: pics/H40L60N1ap02dp20w1p58w2p66Biharm/2D36x36DiagramH40L60N1ap02dp20w1p58w2p66BiharmtotKEnonDim.png  used on input line 1022.
-(pdftex.def)             Requested size: 204.85846pt x 153.6457pt.
-<pics/H40L60N1ap02dp20w1p58w2p66Biharm/spectrumX36p4Y8p0.png, id=713, 433.62pt x 289.08pt>
-File: pics/H40L60N1ap02dp20w1p58w2p66Biharm/spectrumX36p4Y8p0.png Graphic file (type png)
-<use pics/H40L60N1ap02dp20w1p58w2p66Biharm/spectrumX36p4Y8p0.png>
-Package pdftex.def Info: pics/H40L60N1ap02dp20w1p58w2p66Biharm/spectrumX36p4Y8p0.png  used on input line 1027.
-(pdftex.def)             Requested size: 204.85846pt x 136.57336pt.
-<pics/H40L60N1ap02dp20w1p58w2p66Biharm/TFspectrumX36p4Y8p0N768.png, id=714, 867.24pt x 578.16pt>
-File: pics/H40L60N1ap02dp20w1p58w2p66Biharm/TFspectrumX36p4Y8p0N768.png Graphic file (type png)
-<use pics/H40L60N1ap02dp20w1p58w2p66Biharm/TFspectrumX36p4Y8p0N768.png>
-Package pdftex.def Info: pics/H40L60N1ap02dp20w1p58w2p66Biharm/TFspectrumX36p4Y8p0N768.png  used on input line 1031.
-(pdftex.def)             Requested size: 204.85846pt x 136.56454pt.
-<pics/H40L60N1ap10dp20w0p63/2DH40L60N1ap10dp20w0p63Vyn00012.png, id=716, 1027.84pt x 702.625pt>
-File: pics/H40L60N1ap10dp20w0p63/2DH40L60N1ap10dp20w0p63Vyn00012.png Graphic file (type png)
-<use pics/H40L60N1ap10dp20w0p63/2DH40L60N1ap10dp20w0p63Vyn00012.png>
-Package pdftex.def Info: pics/H40L60N1ap10dp20w0p63/2DH40L60N1ap10dp20w0p63Vyn00012.png  used on input line 1043.
-(pdftex.def)             Requested size: 204.85846pt x 140.04005pt.
-<pics/H40L60N1ap10dp20w0p63/2DH40L60N1ap10dp20w0p63Vyn00308.png, id=717, 1027.84pt x 702.625pt>
-File: pics/H40L60N1ap10dp20w0p63/2DH40L60N1ap10dp20w0p63Vyn00308.png Graphic file (type png)
-<use pics/H40L60N1ap10dp20w0p63/2DH40L60N1ap10dp20w0p63Vyn00308.png>
-Package pdftex.def Info: pics/H40L60N1ap10dp20w0p63/2DH40L60N1ap10dp20w0p63Vyn00308.png  used on input line 1047.
-(pdftex.def)             Requested size: 204.85846pt x 140.04005pt.
-<pics/H40L60N1ap10dp20w0p63/vyX35p6Y11p3t1200.png, id=718, 433.62pt x 289.08pt>
-File: pics/H40L60N1ap10dp20w0p63/vyX35p6Y11p3t1200.png Graphic file (type png)
-<use pics/H40L60N1ap10dp20w0p63/vyX35p6Y11p3t1200.png>
-Package pdftex.def Info: pics/H40L60N1ap10dp20w0p63/vyX35p6Y11p3t1200.png  used on input line 1052.
-(pdftex.def)             Requested size: 204.85846pt x 136.57336pt.
-<pics/H40L60N1ap10dp20w0p63/2D36x36DiagramH40L60N1ap10dp20w0p63totKEnonDim.png, id=719, 462.528pt x 346.896pt>
-File: pics/H40L60N1ap10dp20w0p63/2D36x36DiagramH40L60N1ap10dp20w0p63totKEnonDim.png Graphic file (type png)
-<use pics/H40L60N1ap10dp20w0p63/2D36x36DiagramH40L60N1ap10dp20w0p63totKEnonDim.png>
-Package pdftex.def Info: pics/H40L60N1ap10dp20w0p63/2D36x36DiagramH40L60N1ap10dp20w0p63totKEnonDim.png  used on input line 1056.
-(pdftex.def)             Requested size: 204.85846pt x 153.6457pt.
-<pics/H40L60N1ap10dp20w0p63/spectrumX35p6Y11p2n4000.png, id=720, 433.62pt x 289.08pt>
-File: pics/H40L60N1ap10dp20w0p63/spectrumX35p6Y11p2n4000.png Graphic file (type png)
-<use pics/H40L60N1ap10dp20w0p63/spectrumX35p6Y11p2n4000.png>
-Package pdftex.def Info: pics/H40L60N1ap10dp20w0p63/spectrumX35p6Y11p2n4000.png  used on input line 1061.
-(pdftex.def)             Requested size: 204.85846pt x 136.57336pt.
-<pics/H40L60N1ap10dp20w0p63/TFspectrumX35p6Y11p2N1024.png, id=721, 867.24pt x 578.16pt>
-File: pics/H40L60N1ap10dp20w0p63/TFspectrumX35p6Y11p2N1024.png Graphic file (type png)
-<use pics/H40L60N1ap10dp20w0p63/TFspectrumX35p6Y11p2N1024.png>
-Package pdftex.def Info: pics/H40L60N1ap10dp20w0p63/TFspectrumX35p6Y11p2N1024.png  used on input line 1065.
-(pdftex.def)             Requested size: 204.85846pt x 136.56454pt.
- [44]
-<pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/2D36x36DiagramH40L60N1ap05dp20w0p63Deltawp3315BiharmVyn01019.png, id=731, 2055.68pt x 1405.25pt>
-File: pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/2D36x36DiagramH40L60N1ap05dp20w0p63Deltawp3315BiharmVyn01019.png Graphic file (type png)
-<use pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/2D36x36DiagramH40L60N1ap05dp20w0p63Deltawp3315BiharmVyn01019.png>
-Package pdftex.def Info: pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/2D36x36DiagramH40L60N1ap05dp20w0p63Deltawp3315BiharmVyn01019.png  used on input line 1078.
-(pdftex.def)             Requested size: 204.85846pt x 140.04005pt.
-<pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/2D36x36DiagramH40L60N1ap05dp20w0p63Deltawp3315BiharmVyn04408.png, id=732, 2055.68pt x 1405.25pt>
-File: pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/2D36x36DiagramH40L60N1ap05dp20w0p63Deltawp3315BiharmVyn04408.png Graphic file (type png)
-<use pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/2D36x36DiagramH40L60N1ap05dp20w0p63Deltawp3315BiharmVyn04408.png>
-Package pdftex.def Info: pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/2D36x36DiagramH40L60N1ap05dp20w0p63Deltawp3315BiharmVyn04408.png  used on input line 1082.
-(pdftex.def)             Requested size: 204.85846pt x 140.04005pt.
-<pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/vyX35p57Y11p27t4412.png, id=733, 433.62pt x 289.08pt>
-File: pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/vyX35p57Y11p27t4412.png Graphic file (type png)
-<use pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/vyX35p57Y11p27t4412.png>
-Package pdftex.def Info: pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/vyX35p57Y11p27t4412.png  used on input line 1087.
-(pdftex.def)             Requested size: 204.85846pt x 136.57336pt.
-<pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/2D36x36DiagramH40L60N1ap05dp20w1p63Deltawp05BiharmtotKEnonDim.png, id=734, 462.528pt x 346.896pt>
-File: pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/2D36x36DiagramH40L60N1ap05dp20w1p63Deltawp05BiharmtotKEnonDim.png Graphic file (type png)
-<use pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/2D36x36DiagramH40L60N1ap05dp20w1p63Deltawp05BiharmtotKEnonDim.png>
-Package pdftex.def Info: pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/2D36x36DiagramH40L60N1ap05dp20w1p63Deltawp05BiharmtotKEnonDim.png  used on input line 1091.
-(pdftex.def)             Requested size: 204.85846pt x 153.6457pt.
-<pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/spectrumX35p6Y11p2.png, id=735, 433.62pt x 289.08pt>
-File: pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/spectrumX35p6Y11p2.png Graphic file (type png)
-<use pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/spectrumX35p6Y11p2.png>
-Package pdftex.def Info: pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/spectrumX35p6Y11p2.png  used on input line 1096.
-(pdftex.def)             Requested size: 204.85846pt x 136.57336pt.
-<pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/TFspectrumX35p6Y11p2N200.png, id=736, 867.24pt x 578.16pt>
-File: pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/TFspectrumX35p6Y11p2N200.png Graphic file (type png)
-<use pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/TFspectrumX35p6Y11p2N200.png>
-Package pdftex.def Info: pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/TFspectrumX35p6Y11p2N200.png  used on input line 1100.
-(pdftex.def)             Requested size: 204.85846pt x 136.56454pt.
-<pics/H40L60N1ap05dp20w1p63Deltawp02Biharm/vyX35p57Y11p27t4400.png, id=738, 433.62pt x 289.08pt>
-File: pics/H40L60N1ap05dp20w1p63Deltawp02Biharm/vyX35p57Y11p27t4400.png Graphic file (type png)
-<use pics/H40L60N1ap05dp20w1p63Deltawp02Biharm/vyX35p57Y11p27t4400.png>
-Package pdftex.def Info: pics/H40L60N1ap05dp20w1p63Deltawp02Biharm/vyX35p57Y11p27t4400.png  used on input line 1114.
-(pdftex.def)             Requested size: 204.85846pt x 136.57336pt.
-<pics/H40L60N1ap05dp20w1p63Deltawp02Biharm/2D36x36DiagramH40L60N1ap05dp20w1p63Deltawp02BiharmtotKEnonDim.png, id=739, 462.528pt x 346.896pt>
-File: pics/H40L60N1ap05dp20w1p63Deltawp02Biharm/2D36x36DiagramH40L60N1ap05dp20w1p63Deltawp02BiharmtotKEnonDim.png Graphic file (type png)
-<use pics/H40L60N1ap05dp20w1p63Deltawp02Biharm/2D36x36DiagramH40L60N1ap05dp20w1p63Deltawp02BiharmtotKEnonDim.png>
-Package pdftex.def Info: pics/H40L60N1ap05dp20w1p63Deltawp02Biharm/2D36x36DiagramH40L60N1ap05dp20w1p63Deltawp02BiharmtotKEnonDim.png  used on input line 1118.
-(pdftex.def)             Requested size: 204.85846pt x 153.6457pt.
-<pics/H40L60N1ap05dp20w1p63Deltawp02Biharm/spectrumX35p6Y11p2.png, id=740, 433.62pt x 289.08pt>
-File: pics/H40L60N1ap05dp20w1p63Deltawp02Biharm/spectrumX35p6Y11p2.png Graphic file (type png)
-<use pics/H40L60N1ap05dp20w1p63Deltawp02Biharm/spectrumX35p6Y11p2.png>
-Package pdftex.def Info: pics/H40L60N1ap05dp20w1p63Deltawp02Biharm/spectrumX35p6Y11p2.png  used on input line 1123.
-(pdftex.def)             Requested size: 204.85846pt x 136.57336pt.
-<pics/H40L60N1ap05dp20w1p63Deltawp02Biharm/TFspectrumX35p6Y11p2N256.png, id=741, 867.24pt x 578.16pt>
-File: pics/H40L60N1ap05dp20w1p63Deltawp02Biharm/TFspectrumX35p6Y11p2N256.png Graphic file (type png)
-<use pics/H40L60N1ap05dp20w1p63Deltawp02Biharm/TFspectrumX35p6Y11p2N256.png>
-Package pdftex.def Info: pics/H40L60N1ap05dp20w1p63Deltawp02Biharm/TFspectrumX35p6Y11p2N256.png  used on input line 1127.
-(pdftex.def)             Requested size: 204.85846pt x 136.56454pt.
-<pics/Biharm.png, id=743, 630.10406pt x 366.61969pt>
-File: pics/Biharm.png Graphic file (type png)
-<use pics/Biharm.png>
-Package pdftex.def Info: pics/Biharm.png  used on input line 1147.
-(pdftex.def)             Requested size: 455.24411pt x 264.87782pt.
- [45]
-<pics/H40L60N1ap05dp20w0p63/2D36x36DiagramH40L60N1ap05dp20w0p63Vyn00308.png, id=760, 2055.68pt x 1405.25pt>
-File: pics/H40L60N1ap05dp20w0p63/2D36x36DiagramH40L60N1ap05dp20w0p63Vyn00308.png Graphic file (type png)
-<use pics/H40L60N1ap05dp20w0p63/2D36x36DiagramH40L60N1ap05dp20w0p63Vyn00308.png>
-Package pdftex.def Info: pics/H40L60N1ap05dp20w0p63/2D36x36DiagramH40L60N1ap05dp20w0p63Vyn00308.png  used on input line 1167.
-(pdftex.def)             Requested size: 204.85846pt x 140.04005pt.
-<pics/H40L60N1ap05dp20w0p63/2D36x36DiagramH40L60N1ap05dp20w0p63Pn00308.png, id=761, 2055.68pt x 1405.25pt>
-File: pics/H40L60N1ap05dp20w0p63/2D36x36DiagramH40L60N1ap05dp20w0p63Pn00308.png Graphic file (type png)
-<use pics/H40L60N1ap05dp20w0p63/2D36x36DiagramH40L60N1ap05dp20w0p63Pn00308.png>
-Package pdftex.def Info: pics/H40L60N1ap05dp20w0p63/2D36x36DiagramH40L60N1ap05dp20w0p63Pn00308.png  used on input line 1171.
-(pdftex.def)             Requested size: 204.85846pt x 140.04005pt.
-<pics/H40L60N1ap05dp20w0p63/vyX35p57Y11p27t4400.png, id=762, 433.62pt x 289.08pt>
-File: pics/H40L60N1ap05dp20w0p63/vyX35p57Y11p27t4400.png Graphic file (type png)
-<use pics/H40L60N1ap05dp20w0p63/vyX35p57Y11p27t4400.png>
-Package pdftex.def Info: pics/H40L60N1ap05dp20w0p63/vyX35p57Y11p27t4400.png  used on input line 1176.
-(pdftex.def)             Requested size: 204.85846pt x 136.57336pt.
-<pics/H40L60N1ap05dp20w0p63/2D36x36DiagramH40L60N1ap05dp20w0p63totKEnonDim.png, id=763, 462.528pt x 346.896pt>
-File: pics/H40L60N1ap05dp20w0p63/2D36x36DiagramH40L60N1ap05dp20w0p63totKEnonDim.png Graphic file (type png)
-<use pics/H40L60N1ap05dp20w0p63/2D36x36DiagramH40L60N1ap05dp20w0p63totKEnonDim.png>
-Package pdftex.def Info: pics/H40L60N1ap05dp20w0p63/2D36x36DiagramH40L60N1ap05dp20w0p63totKEnonDim.png  used on input line 1180.
-(pdftex.def)             Requested size: 204.85846pt x 153.6457pt.
-<pics/H40L60N1ap05dp20w0p63/spectrumX35.6Y11.2.png, id=764, 433.62pt x 289.08pt>
-File: pics/H40L60N1ap05dp20w0p63/spectrumX35.6Y11.2.png Graphic file (type png)
-<use pics/H40L60N1ap05dp20w0p63/spectrumX35.6Y11.2.png>
-Package pdftex.def Info: pics/H40L60N1ap05dp20w0p63/spectrumX35.6Y11.2.png  used on input line 1185.
-(pdftex.def)             Requested size: 204.85846pt x 136.57336pt.
-<pics/H40L60N1ap05dp20w0p63/TFspectrumX35.6Y11.2N1024.png, id=765, 867.24pt x 578.16pt>
-File: pics/H40L60N1ap05dp20w0p63/TFspectrumX35.6Y11.2N1024.png Graphic file (type png)
-<use pics/H40L60N1ap05dp20w0p63/TFspectrumX35.6Y11.2N1024.png>
-Package pdftex.def Info: pics/H40L60N1ap05dp20w0p63/TFspectrumX35.6Y11.2N1024.png  used on input line 1189.
-(pdftex.def)             Requested size: 204.85846pt x 136.56454pt.
- [46] [47]) [48] [49] [50] [51 <d:/git/DISER/pics/Re100.png> <d:/git/DISER/pics/Re200.png> <d:/git/DISER/pics/Re400.png>] [52 <d:/git/DISER/pics/Umag.png>] [53] [54 <d:/git/DISER/Figs/CritAttrFreq.png> <d:/git/DISER/Figs/AttrCritFreq.png>] [55 <d:/git/DISER/Figs/AttrNEKcrit1.png> <d:/git/DISER/Figs/AttrNekCrit2.png>] [56 <d:/git/DISER/pics/H40L60N1ap02dp20w1p58w2p66Biharm/2D36x36DiagramH40L60N1ap02dp20w1p58w2p66BiharmVyn06129.png (PNG copy)> <d:/git/DISER/pics/H40L60N1ap02dp20w1p58w2p66Biharm/2D36x36DiagramH40L60N1ap02dp20w1p58w2p66BiharmVy6129.png (PNG copy)> <d:/git/DISER/pics/H40L60N1ap02dp20w1p58w2p66Biharm/vyX36p49Y7p94frm280to300.png> <d:/git/DISER/pics/H40L60N1ap02dp20w1p58w2p66Biharm/2D36x36DiagramH40L60N1ap02dp20w1p58w2p66BiharmtotKEnonDim.png> <d:/git/DISER/pics/H40L60N1ap02dp20w1p58w2p66Biharm/spectrumX36p4Y8p0.png> <d:/git/DISER/pics/H40L60N1ap02dp20w1p58w2p66Biharm/TFspectrumX36p4Y8p0N768.png>] [57 <d:/git/DISER/pics/H40L60N1ap10dp20w0p63/2DH40L60N1ap10dp20w0p63Vyn00012.png> <d:/git/DISER/pics/H40L60N1ap10dp20w0p63/2DH40L60N1ap10dp20w0p63Vyn00308.png> <d:/git/DISER/pics/H40L60N1ap10dp20w0p63/vyX35p6Y11p3t1200.png> <d:/git/DISER/pics/H40L60N1ap10dp20w0p63/2D36x36DiagramH40L60N1ap10dp20w0p63totKEnonDim.png> <d:/git/DISER/pics/H40L60N1ap10dp20w0p63/spectrumX35p6Y11p2n4000.png> <d:/git/DISER/pics/H40L60N1ap10dp20w0p63/TFspectrumX35p6Y11p2N1024.png>] [58 <d:/git/DISER/pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/2D36x36DiagramH40L60N1ap05dp20w0p63Deltawp3315BiharmVyn01019.png (PNG copy)> <d:/git/DISER/pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/2D36x36DiagramH40L60N1ap05dp20w0p63Deltawp3315BiharmVyn04408.png (PNG copy)> <d:/git/DISER/pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/vyX35p57Y11p27t4412.png> <d:/git/DISER/pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/2D36x36DiagramH40L60N1ap05dp20w1p63Deltawp05BiharmtotKEnonDim.png> <d:/git/DISER/pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/spectrumX35p6Y11p2.png> <d:/git/DISER/pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/TFspectrumX35p6Y11p2N200.png>] [59 <d:/git/DISER/pics/H40L60N1ap05dp20w1p63Deltawp02Biharm/vyX35p57Y11p27t4400.png> <d:/git/DISER/pics/H40L60N1ap05dp20w1p63Deltawp02Biharm/2D36x36DiagramH40L60N1ap05dp20w1p63Deltawp02BiharmtotKEnonDim.png> <d:/git/DISER/pics/H40L60N1ap05dp20w1p63Deltawp02Biharm/spectrumX35p6Y11p2.png> <d:/git/DISER/pics/H40L60N1ap05dp20w1p63Deltawp02Biharm/TFspectrumX35p6Y11p2N256.png> <d:/git/DISER/pics/Biharm.png>] [60 <d:/git/DISER/pics/H40L60N1ap05dp20w0p63/2D36x36DiagramH40L60N1ap05dp20w0p63Vyn00308.png (PNG copy)> <d:/git/DISER/pics/H40L60N1ap05dp20w0p63/2D36x36DiagramH40L60N1ap05dp20w0p63Pn00308.png (PNG copy)> <d:/git/DISER/pics/H40L60N1ap05dp20w0p63/vyX35p57Y11p27t4400.png> <d:/git/DISER/pics/H40L60N1ap05dp20w0p63/2D36x36DiagramH40L60N1ap05dp20w0p63totKEnonDim.png> <d:/git/DISER/pics/H40L60N1ap05dp20w0p63/spectrumX35.6Y11.2.png> <d:/git/DISER/pics/H40L60N1ap05dp20w0p63/TFspectrumX35.6Y11.2N1024.png>] [61]
-\openout2 = `Conclusion.aux'.
 
- (d:/git/DISER/Conclusion.tex [62
+Underfull \hbox (badness 5802) in paragraph at lines 952--953
+[]\T2A/cmr/m/n/14.4 Помимо точ^^?но^^?сти ре^^?а^^?ли^^?за^^?ций ал^^?го^^?рит^^?мов на ба^^?зе па^^?ке^^?та
+ []
+
+[70]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `bph') on input line 954.
 
 
+Overfull \hbox (27.68974pt too wide) in paragraph at lines 957--974
+[][] 
+ []
 
-] [63]) [64]
-\openout2 = `81-biblio.aux'.
+[71]
 
- (d:/git/DISER/81-biblio.tex (d:/git/DISER/rpz.bbl<<ot1tt.cmap>> [65
+LaTeX Warning: Text page 72 contains only floats.
+
+
+Overfull \vbox (1.91644pt too high) has occurred while \output is active []
+
+ [72] [73] [74 <d:/git/DISERnew/pics/StreamlinesAtPressureCrop.png> <d:/git/DISERnew/pics/StreamlinesAtPressureCropTikz30.png>]
+
+LaTeX Warning: Text page 75 contains only floats.
+
+[75 <d:/git/DISERnew/pics/Re100.png> <d:/git/DISERnew/pics/Re200.png> <d:/git/DISERnew/pics/Re400.png>] [76]
+Underfull \hbox (badness 1112) in paragraph at lines 998--999
+[]\T2A/cmr/m/n/14.4 Исходя из вы^^?ше^^?ска^^?зан^^?но^^?го мож^^?но кон^^?ста^^?ти^^?ро^^?вать пре^^?иму^^?ще^^?
+ []
+
+) [77] [78 <d:/git/DISERnew/pics/Umag.png>] [79] [80]
+\openout2 = `04-biharm.aux'.
+
+ (d:/git/DISERnew/04-biharm.tex [81
 
 
 
 ]
-Underfull \hbox (badness 1478) in paragraph at lines 115--123
+<pics/H40L60N1ap02dp20w1p58w2p66Biharm/2D36x36DiagramH40L60N1ap02dp20w1p58w2p66BiharmVyn06129.png, id=1327, 2055.68pt x 1405.25pt>
+File: pics/H40L60N1ap02dp20w1p58w2p66Biharm/2D36x36DiagramH40L60N1ap02dp20w1p58w2p66BiharmVyn06129.png Graphic file (type png)
+<use pics/H40L60N1ap02dp20w1p58w2p66Biharm/2D36x36DiagramH40L60N1ap02dp20w1p58w2p66BiharmVyn06129.png>
+Package pdftex.def Info: pics/H40L60N1ap02dp20w1p58w2p66Biharm/2D36x36DiagramH40L60N1ap02dp20w1p58w2p66BiharmVyn06129.png  used on input line 27.
+(pdftex.def)             Requested size: 204.85846pt x 140.04005pt.
+<pics/H40L60N1ap02dp20w1p58w2p66Biharm/2D36x36DiagramH40L60N1ap02dp20w1p58w2p66BiharmVy6129.png, id=1328, 2055.68pt x 1405.25pt>
+File: pics/H40L60N1ap02dp20w1p58w2p66Biharm/2D36x36DiagramH40L60N1ap02dp20w1p58w2p66BiharmVy6129.png Graphic file (type png)
+<use pics/H40L60N1ap02dp20w1p58w2p66Biharm/2D36x36DiagramH40L60N1ap02dp20w1p58w2p66BiharmVy6129.png>
+Package pdftex.def Info: pics/H40L60N1ap02dp20w1p58w2p66Biharm/2D36x36DiagramH40L60N1ap02dp20w1p58w2p66BiharmVy6129.png  used on input line 31.
+(pdftex.def)             Requested size: 204.85846pt x 140.04005pt.
+<pics/H40L60N1ap02dp20w1p58w2p66Biharm/vyX36p49Y7p94frm280to300.png, id=1329, 433.62pt x 289.08pt>
+File: pics/H40L60N1ap02dp20w1p58w2p66Biharm/vyX36p49Y7p94frm280to300.png Graphic file (type png)
+<use pics/H40L60N1ap02dp20w1p58w2p66Biharm/vyX36p49Y7p94frm280to300.png>
+Package pdftex.def Info: pics/H40L60N1ap02dp20w1p58w2p66Biharm/vyX36p49Y7p94frm280to300.png  used on input line 36.
+(pdftex.def)             Requested size: 204.85846pt x 136.57336pt.
+<pics/H40L60N1ap02dp20w1p58w2p66Biharm/2D36x36DiagramH40L60N1ap02dp20w1p58w2p66BiharmtotKEnonDim.png, id=1330, 462.528pt x 346.896pt>
+File: pics/H40L60N1ap02dp20w1p58w2p66Biharm/2D36x36DiagramH40L60N1ap02dp20w1p58w2p66BiharmtotKEnonDim.png Graphic file (type png)
+<use pics/H40L60N1ap02dp20w1p58w2p66Biharm/2D36x36DiagramH40L60N1ap02dp20w1p58w2p66BiharmtotKEnonDim.png>
+Package pdftex.def Info: pics/H40L60N1ap02dp20w1p58w2p66Biharm/2D36x36DiagramH40L60N1ap02dp20w1p58w2p66BiharmtotKEnonDim.png  used on input line 40.
+(pdftex.def)             Requested size: 204.85846pt x 153.6457pt.
+<pics/H40L60N1ap02dp20w1p58w2p66Biharm/spectrumX36p4Y8p0.png, id=1331, 433.62pt x 289.08pt>
+File: pics/H40L60N1ap02dp20w1p58w2p66Biharm/spectrumX36p4Y8p0.png Graphic file (type png)
+<use pics/H40L60N1ap02dp20w1p58w2p66Biharm/spectrumX36p4Y8p0.png>
+Package pdftex.def Info: pics/H40L60N1ap02dp20w1p58w2p66Biharm/spectrumX36p4Y8p0.png  used on input line 45.
+(pdftex.def)             Requested size: 204.85846pt x 136.57336pt.
+<pics/H40L60N1ap02dp20w1p58w2p66Biharm/TFspectrumX36p4Y8p0N768.png, id=1332, 867.24pt x 578.16pt>
+File: pics/H40L60N1ap02dp20w1p58w2p66Biharm/TFspectrumX36p4Y8p0N768.png Graphic file (type png)
+<use pics/H40L60N1ap02dp20w1p58w2p66Biharm/TFspectrumX36p4Y8p0N768.png>
+Package pdftex.def Info: pics/H40L60N1ap02dp20w1p58w2p66Biharm/TFspectrumX36p4Y8p0N768.png  used on input line 49.
+(pdftex.def)             Requested size: 204.85846pt x 136.56454pt.
+<pics/H40L60N1ap10dp20w0p63/2DH40L60N1ap10dp20w0p63Vyn00012.png, id=1334, 1027.84pt x 702.625pt>
+File: pics/H40L60N1ap10dp20w0p63/2DH40L60N1ap10dp20w0p63Vyn00012.png Graphic file (type png)
+<use pics/H40L60N1ap10dp20w0p63/2DH40L60N1ap10dp20w0p63Vyn00012.png>
+Package pdftex.def Info: pics/H40L60N1ap10dp20w0p63/2DH40L60N1ap10dp20w0p63Vyn00012.png  used on input line 61.
+(pdftex.def)             Requested size: 204.85846pt x 140.04005pt.
+<pics/H40L60N1ap10dp20w0p63/2DH40L60N1ap10dp20w0p63Vyn00308.png, id=1335, 1027.84pt x 702.625pt>
+File: pics/H40L60N1ap10dp20w0p63/2DH40L60N1ap10dp20w0p63Vyn00308.png Graphic file (type png)
+<use pics/H40L60N1ap10dp20w0p63/2DH40L60N1ap10dp20w0p63Vyn00308.png>
+Package pdftex.def Info: pics/H40L60N1ap10dp20w0p63/2DH40L60N1ap10dp20w0p63Vyn00308.png  used on input line 65.
+(pdftex.def)             Requested size: 204.85846pt x 140.04005pt.
+<pics/H40L60N1ap10dp20w0p63/vyX35p6Y11p3t1200.png, id=1336, 433.62pt x 289.08pt>
+File: pics/H40L60N1ap10dp20w0p63/vyX35p6Y11p3t1200.png Graphic file (type png)
+<use pics/H40L60N1ap10dp20w0p63/vyX35p6Y11p3t1200.png>
+Package pdftex.def Info: pics/H40L60N1ap10dp20w0p63/vyX35p6Y11p3t1200.png  used on input line 70.
+(pdftex.def)             Requested size: 204.85846pt x 136.57336pt.
+<pics/H40L60N1ap10dp20w0p63/2D36x36DiagramH40L60N1ap10dp20w0p63totKEnonDim.png, id=1337, 462.528pt x 346.896pt>
+File: pics/H40L60N1ap10dp20w0p63/2D36x36DiagramH40L60N1ap10dp20w0p63totKEnonDim.png Graphic file (type png)
+<use pics/H40L60N1ap10dp20w0p63/2D36x36DiagramH40L60N1ap10dp20w0p63totKEnonDim.png>
+Package pdftex.def Info: pics/H40L60N1ap10dp20w0p63/2D36x36DiagramH40L60N1ap10dp20w0p63totKEnonDim.png  used on input line 74.
+(pdftex.def)             Requested size: 204.85846pt x 153.6457pt.
+<pics/H40L60N1ap10dp20w0p63/spectrumX35p6Y11p2n4000.png, id=1338, 433.62pt x 289.08pt>
+File: pics/H40L60N1ap10dp20w0p63/spectrumX35p6Y11p2n4000.png Graphic file (type png)
+<use pics/H40L60N1ap10dp20w0p63/spectrumX35p6Y11p2n4000.png>
+Package pdftex.def Info: pics/H40L60N1ap10dp20w0p63/spectrumX35p6Y11p2n4000.png  used on input line 79.
+(pdftex.def)             Requested size: 204.85846pt x 136.57336pt.
+<pics/H40L60N1ap10dp20w0p63/TFspectrumX35p6Y11p2N1024.png, id=1339, 867.24pt x 578.16pt>
+File: pics/H40L60N1ap10dp20w0p63/TFspectrumX35p6Y11p2N1024.png Graphic file (type png)
+<use pics/H40L60N1ap10dp20w0p63/TFspectrumX35p6Y11p2N1024.png>
+Package pdftex.def Info: pics/H40L60N1ap10dp20w0p63/TFspectrumX35p6Y11p2N1024.png  used on input line 83.
+(pdftex.def)             Requested size: 204.85846pt x 136.56454pt.
+<pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/2D36x36DiagramH40L60N1ap05dp20w0p63Deltawp3315BiharmVyn01019.png, id=1341, 2055.68pt x 1405.25pt>
+File: pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/2D36x36DiagramH40L60N1ap05dp20w0p63Deltawp3315BiharmVyn01019.png Graphic file (type png)
+<use pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/2D36x36DiagramH40L60N1ap05dp20w0p63Deltawp3315BiharmVyn01019.png>
+Package pdftex.def Info: pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/2D36x36DiagramH40L60N1ap05dp20w0p63Deltawp3315BiharmVyn01019.png  used on input line 96.
+(pdftex.def)             Requested size: 204.85846pt x 140.04005pt.
+<pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/2D36x36DiagramH40L60N1ap05dp20w0p63Deltawp3315BiharmVyn04408.png, id=1342, 2055.68pt x 1405.25pt>
+File: pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/2D36x36DiagramH40L60N1ap05dp20w0p63Deltawp3315BiharmVyn04408.png Graphic file (type png)
+<use pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/2D36x36DiagramH40L60N1ap05dp20w0p63Deltawp3315BiharmVyn04408.png>
+Package pdftex.def Info: pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/2D36x36DiagramH40L60N1ap05dp20w0p63Deltawp3315BiharmVyn04408.png  used on input line 100.
+(pdftex.def)             Requested size: 204.85846pt x 140.04005pt.
+<pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/vyX35p57Y11p27t4412.png, id=1343, 433.62pt x 289.08pt>
+File: pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/vyX35p57Y11p27t4412.png Graphic file (type png)
+<use pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/vyX35p57Y11p27t4412.png>
+Package pdftex.def Info: pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/vyX35p57Y11p27t4412.png  used on input line 105.
+(pdftex.def)             Requested size: 204.85846pt x 136.57336pt.
+<pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/2D36x36DiagramH40L60N1ap05dp20w1p63Deltawp05BiharmtotKEnonDim.png, id=1344, 462.528pt x 346.896pt>
+File: pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/2D36x36DiagramH40L60N1ap05dp20w1p63Deltawp05BiharmtotKEnonDim.png Graphic file (type png)
+<use pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/2D36x36DiagramH40L60N1ap05dp20w1p63Deltawp05BiharmtotKEnonDim.png>
+Package pdftex.def Info: pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/2D36x36DiagramH40L60N1ap05dp20w1p63Deltawp05BiharmtotKEnonDim.png  used on input line 109.
+(pdftex.def)             Requested size: 204.85846pt x 153.6457pt.
+<pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/spectrumX35p6Y11p2.png, id=1345, 433.62pt x 289.08pt>
+File: pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/spectrumX35p6Y11p2.png Graphic file (type png)
+<use pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/spectrumX35p6Y11p2.png>
+Package pdftex.def Info: pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/spectrumX35p6Y11p2.png  used on input line 114.
+(pdftex.def)             Requested size: 204.85846pt x 136.57336pt.
+<pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/TFspectrumX35p6Y11p2N200.png, id=1346, 867.24pt x 578.16pt>
+File: pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/TFspectrumX35p6Y11p2N200.png Graphic file (type png)
+<use pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/TFspectrumX35p6Y11p2N200.png>
+Package pdftex.def Info: pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/TFspectrumX35p6Y11p2N200.png  used on input line 118.
+(pdftex.def)             Requested size: 204.85846pt x 136.56454pt.
+<pics/H40L60N1ap05dp20w1p63Deltawp02Biharm/vyX35p57Y11p27t4400.png, id=1348, 433.62pt x 289.08pt>
+File: pics/H40L60N1ap05dp20w1p63Deltawp02Biharm/vyX35p57Y11p27t4400.png Graphic file (type png)
+<use pics/H40L60N1ap05dp20w1p63Deltawp02Biharm/vyX35p57Y11p27t4400.png>
+Package pdftex.def Info: pics/H40L60N1ap05dp20w1p63Deltawp02Biharm/vyX35p57Y11p27t4400.png  used on input line 132.
+(pdftex.def)             Requested size: 204.85846pt x 136.57336pt.
+<pics/H40L60N1ap05dp20w1p63Deltawp02Biharm/2D36x36DiagramH40L60N1ap05dp20w1p63Deltawp02BiharmtotKEnonDim.png, id=1349, 462.528pt x 346.896pt>
+File: pics/H40L60N1ap05dp20w1p63Deltawp02Biharm/2D36x36DiagramH40L60N1ap05dp20w1p63Deltawp02BiharmtotKEnonDim.png Graphic file (type png)
+<use pics/H40L60N1ap05dp20w1p63Deltawp02Biharm/2D36x36DiagramH40L60N1ap05dp20w1p63Deltawp02BiharmtotKEnonDim.png>
+Package pdftex.def Info: pics/H40L60N1ap05dp20w1p63Deltawp02Biharm/2D36x36DiagramH40L60N1ap05dp20w1p63Deltawp02BiharmtotKEnonDim.png  used on input line 136.
+(pdftex.def)             Requested size: 204.85846pt x 153.6457pt.
+<pics/H40L60N1ap05dp20w1p63Deltawp02Biharm/spectrumX35p6Y11p2.png, id=1350, 433.62pt x 289.08pt>
+File: pics/H40L60N1ap05dp20w1p63Deltawp02Biharm/spectrumX35p6Y11p2.png Graphic file (type png)
+<use pics/H40L60N1ap05dp20w1p63Deltawp02Biharm/spectrumX35p6Y11p2.png>
+Package pdftex.def Info: pics/H40L60N1ap05dp20w1p63Deltawp02Biharm/spectrumX35p6Y11p2.png  used on input line 141.
+(pdftex.def)             Requested size: 204.85846pt x 136.57336pt.
+<pics/H40L60N1ap05dp20w1p63Deltawp02Biharm/TFspectrumX35p6Y11p2N256.png, id=1351, 867.24pt x 578.16pt>
+File: pics/H40L60N1ap05dp20w1p63Deltawp02Biharm/TFspectrumX35p6Y11p2N256.png Graphic file (type png)
+<use pics/H40L60N1ap05dp20w1p63Deltawp02Biharm/TFspectrumX35p6Y11p2N256.png>
+Package pdftex.def Info: pics/H40L60N1ap05dp20w1p63Deltawp02Biharm/TFspectrumX35p6Y11p2N256.png  used on input line 145.
+(pdftex.def)             Requested size: 204.85846pt x 136.56454pt.
+<pics/Biharm.png, id=1353, 630.10406pt x 366.61969pt>
+File: pics/Biharm.png Graphic file (type png)
+<use pics/Biharm.png>
+Package pdftex.def Info: pics/Biharm.png  used on input line 165.
+(pdftex.def)             Requested size: 455.24411pt x 264.87782pt.
+ [82] [83 <d:/git/DISERnew/pics/H40L60N1ap02dp20w1p58w2p66Biharm/2D36x36DiagramH40L60N1ap02dp20w1p58w2p66BiharmVyn06129.png (PNG copy)> <d:/git/DISERnew/pics/H40L60N1ap02dp20w1p58w2p66Biharm/2D36x36DiagramH40L60N1ap02dp20w1p58w2p66BiharmVy6129.png (PNG copy)> <d:/git/DISERnew/pics/H40L60N1ap02dp20w1p58w2p66Biharm/vyX36p49Y7p94frm280to300.png> <d:/git/DISERnew/pics/H40L60N1ap02dp20w1p58w2p66Biharm/2D36x36DiagramH40L60N1ap02dp20w1p58w2p66BiharmtotKEnonDim.png> <d:/git/DISERnew/pics/H40L60N1ap02dp20w1p58w2p66Biharm/spectrumX36p4Y8p0.png> <d:/git/DISERnew/pics/H40L60N1ap02dp20w1p58w2p66Biharm/TFspectrumX36p4Y8p0N768.png>] [84 <d:/git/DISERnew/pics/H40L60N1ap10dp20w0p63/2DH40L60N1ap10dp20w0p63Vyn00012.png> <d:/git/DISERnew/pics/H40L60N1ap10dp20w0p63/2DH40L60N1ap10dp20w0p63Vyn00308.png> <d:/git/DISERnew/pics/H40L60N1ap10dp20w0p63/vyX35p6Y11p3t1200.png> <d:/git/DISERnew/pics/H40L60N1ap10dp20w0p63/2D36x36DiagramH40L60N1ap10dp20w0p63totKEnonDim.png> <d:/git/DISERnew/pics/H40L60N1ap10dp20w0p63/spectrumX35p6Y11p2n4000.png> <d:/git/DISERnew/pics/H40L60N1ap10dp20w0p63/TFspectrumX35p6Y11p2N1024.png>] [85 <d:/git/DISERnew/pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/2D36x36DiagramH40L60N1ap05dp20w0p63Deltawp3315BiharmVyn01019.png (PNG copy)> <d:/git/DISERnew/pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/2D36x36DiagramH40L60N1ap05dp20w0p63Deltawp3315BiharmVyn04408.png (PNG copy)> <d:/git/DISERnew/pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/vyX35p57Y11p27t4412.png> <d:/git/DISERnew/pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/2D36x36DiagramH40L60N1ap05dp20w1p63Deltawp05BiharmtotKEnonDim.png> <d:/git/DISERnew/pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/spectrumX35p6Y11p2.png> <d:/git/DISERnew/pics/H40L60N1ap05dp20w1p63Deltawp05Biharm/TFspectrumX35p6Y11p2N200.png>] [86 <d:/git/DISERnew/pics/H40L60N1ap05dp20w1p63Deltawp02Biharm/vyX35p57Y11p27t4400.png> <d:/git/DISERnew/pics/H40L60N1ap05dp20w1p63Deltawp02Biharm/2D36x36DiagramH40L60N1ap05dp20w1p63Deltawp02BiharmtotKEnonDim.png> <d:/git/DISERnew/pics/H40L60N1ap05dp20w1p63Deltawp02Biharm/spectrumX35p6Y11p2.png> <d:/git/DISERnew/pics/H40L60N1ap05dp20w1p63Deltawp02Biharm/TFspectrumX35p6Y11p2N256.png> <d:/git/DISERnew/pics/Biharm.png>] [87]
+<pics/H40L60N1ap05dp20w0p63/2D36x36DiagramH40L60N1ap05dp20w0p63Vyn00308.png, id=1418, 2055.68pt x 1405.25pt>
+File: pics/H40L60N1ap05dp20w0p63/2D36x36DiagramH40L60N1ap05dp20w0p63Vyn00308.png Graphic file (type png)
+<use pics/H40L60N1ap05dp20w0p63/2D36x36DiagramH40L60N1ap05dp20w0p63Vyn00308.png>
+Package pdftex.def Info: pics/H40L60N1ap05dp20w0p63/2D36x36DiagramH40L60N1ap05dp20w0p63Vyn00308.png  used on input line 185.
+(pdftex.def)             Requested size: 204.85846pt x 140.04005pt.
+<pics/H40L60N1ap05dp20w0p63/2D36x36DiagramH40L60N1ap05dp20w0p63Pn00308.png, id=1419, 2055.68pt x 1405.25pt>
+File: pics/H40L60N1ap05dp20w0p63/2D36x36DiagramH40L60N1ap05dp20w0p63Pn00308.png Graphic file (type png)
+<use pics/H40L60N1ap05dp20w0p63/2D36x36DiagramH40L60N1ap05dp20w0p63Pn00308.png>
+Package pdftex.def Info: pics/H40L60N1ap05dp20w0p63/2D36x36DiagramH40L60N1ap05dp20w0p63Pn00308.png  used on input line 189.
+(pdftex.def)             Requested size: 204.85846pt x 140.04005pt.
+<pics/H40L60N1ap05dp20w0p63/vyX35p57Y11p27t4400.png, id=1420, 433.62pt x 289.08pt>
+File: pics/H40L60N1ap05dp20w0p63/vyX35p57Y11p27t4400.png Graphic file (type png)
+<use pics/H40L60N1ap05dp20w0p63/vyX35p57Y11p27t4400.png>
+Package pdftex.def Info: pics/H40L60N1ap05dp20w0p63/vyX35p57Y11p27t4400.png  used on input line 194.
+(pdftex.def)             Requested size: 204.85846pt x 136.57336pt.
+<pics/H40L60N1ap05dp20w0p63/2D36x36DiagramH40L60N1ap05dp20w0p63totKEnonDim.png, id=1421, 462.528pt x 346.896pt>
+File: pics/H40L60N1ap05dp20w0p63/2D36x36DiagramH40L60N1ap05dp20w0p63totKEnonDim.png Graphic file (type png)
+<use pics/H40L60N1ap05dp20w0p63/2D36x36DiagramH40L60N1ap05dp20w0p63totKEnonDim.png>
+Package pdftex.def Info: pics/H40L60N1ap05dp20w0p63/2D36x36DiagramH40L60N1ap05dp20w0p63totKEnonDim.png  used on input line 198.
+(pdftex.def)             Requested size: 204.85846pt x 153.6457pt.
+<pics/H40L60N1ap05dp20w0p63/spectrumX35.6Y11.2.png, id=1422, 433.62pt x 289.08pt>
+File: pics/H40L60N1ap05dp20w0p63/spectrumX35.6Y11.2.png Graphic file (type png)
+<use pics/H40L60N1ap05dp20w0p63/spectrumX35.6Y11.2.png>
+Package pdftex.def Info: pics/H40L60N1ap05dp20w0p63/spectrumX35.6Y11.2.png  used on input line 203.
+(pdftex.def)             Requested size: 204.85846pt x 136.57336pt.
+<pics/H40L60N1ap05dp20w0p63/TFspectrumX35.6Y11.2N1024.png, id=1423, 867.24pt x 578.16pt>
+File: pics/H40L60N1ap05dp20w0p63/TFspectrumX35.6Y11.2N1024.png Graphic file (type png)
+<use pics/H40L60N1ap05dp20w0p63/TFspectrumX35.6Y11.2N1024.png>
+Package pdftex.def Info: pics/H40L60N1ap05dp20w0p63/TFspectrumX35.6Y11.2N1024.png  used on input line 207.
+(pdftex.def)             Requested size: 204.85846pt x 136.56454pt.
+ [88] [89 <d:/git/DISERnew/pics/H40L60N1ap05dp20w0p63/2D36x36DiagramH40L60N1ap05dp20w0p63Vyn00308.png (PNG copy)> <d:/git/DISERnew/pics/H40L60N1ap05dp20w0p63/2D36x36DiagramH40L60N1ap05dp20w0p63Pn00308.png (PNG copy)> <d:/git/DISERnew/pics/H40L60N1ap05dp20w0p63/vyX35p57Y11p27t4400.png> <d:/git/DISERnew/pics/H40L60N1ap05dp20w0p63/2D36x36DiagramH40L60N1ap05dp20w0p63totKEnonDim.png> <d:/git/DISERnew/pics/H40L60N1ap05dp20w0p63/spectrumX35.6Y11.2.png> <d:/git/DISERnew/pics/H40L60N1ap05dp20w0p63/TFspectrumX35.6Y11.2N1024.png>] [90] [91]) [92]
+\openout2 = `99-Conclusion.aux'.
+
+ (d:/git/DISERnew/99-Conclusion.tex [93
+
+
+
+] [94]) [95]
+\openout2 = `81-biblio.aux'.
+
+ (d:/git/DISERnew/81-biblio.tex (d:/git/DISERnew/rpz.bbl<<ot1tt.cmap>>
+Underfull \hbox (badness 2856) in paragraph at lines 92--94
+[]\OT1/cmr/m/n/14.4 Dead wa-ter video. [] [][]$\OT1/cmtt/m/n/14.4 https : / / www . youtube . com / watch ? v =
+ []
+
+[96
+
+
+
+] [97]
+Underfull \hbox (badness 1478) in paragraph at lines 195--203
 []\OT1/cmr/m/n/14.4 Tidally gen-er-ated internal-wave at-trac-tors be-tween dou-ble
  []
 
 
-Underfull \hbox (badness 1430) in paragraph at lines 115--123
+Underfull \hbox (badness 1430) in paragraph at lines 195--203
 \OT1/cmr/m/n/14.4 ridges / P. ECHEV-ERRI, T. YOKOSSI, N. J. BALM-FORTH,
  []
 
-[66]
-Underfull \hbox (badness 1308) in paragraph at lines 198--206
+
+Underfull \hbox (badness 1308) in paragraph at lines 268--276
 \OT1/cmr/m/n/14.4 no. 1. [] P. 37--66. [] Ac-cess mode: [][]$\OT1/cmtt/m/n/14.4 https : / / doi . org / 10 . 1146 /
  []
 
-
-Underfull \hbox (badness 1286) in paragraph at lines 229--238
+[98]
+Underfull \hbox (badness 1286) in paragraph at lines 299--308
 []\OT1/cmr/m/n/14.4 Energy cas-cade in internal-wave at-trac-tors / C. Brouzet,
  []
 
-[67]
-Underfull \hbox (badness 1194) in paragraph at lines 348--352
+[99] [100] [101] [102]
+Underfull \hbox (badness 1603) in paragraph at lines 662--669
+[]\OT1/cmr/m/n/14.4 New wave gen-er-a-tion / MATTHIEU J. MERCIER, DE-
+ []
+
+[103]
+Underfull \hbox (badness 1194) in paragraph at lines 773--777
 [][][]\OT1/cmr/m/n/14.4 Development of Open-FOAM Solver for Com-press-ible Vis-
  []
 
 
-Underfull \hbox (badness 2521) in paragraph at lines 348--352
+Underfull \hbox (badness 2521) in paragraph at lines 773--777
 \OT1/cmr/m/n/14.4 cous Flows Sim-u-la-tion Us-ing Quasi-Gas Dy-namic Equa-tions[][] /
  []
 
-[68]
-Underfull \hbox (badness 6461) in paragraph at lines 382--391
+[104]
+Underfull \hbox (badness 6461) in paragraph at lines 820--829
 \OT1/cmr/m/n/14.4 TRANS-FER AND FLUID FLOW DOWN-STREAM OF AN
  []
 
 
-Underfull \hbox (badness 4673) in paragraph at lines 416--424
+Underfull \hbox (badness 4673) in paragraph at lines 854--862
 []\OT1/cmr/m/n/14.4 Experimental and the-o-ret-i-cal in-ves-ti-ga-tion of backward-
  []
 
 
-Underfull \hbox (badness 1253) in paragraph at lines 416--424
+Underfull \hbox (badness 1253) in paragraph at lines 854--862
 \OT1/cmr/m/n/14.4 facing step flow / B. F. Ar-maly, F. Durst, J. C. F. Pereira,
  []
 
-[69])) [70]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 65.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 65.
- (d:/git/DISER/rpz.aux (d:/git/DISER/Title.aux) (d:/git/DISER/intro.aux) (d:/git/DISER/Theory.aux) (d:/git/DISER/Simulation.aux) (d:/git/DISER/Conclusion.aux) (d:/git/DISER/81-biblio.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 65.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 65.
+[105])) [106]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 70.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 70.
+ (d:/git/DISERnew/rpz.aux (d:/git/DISERnew/Title.aux) (d:/git/DISERnew/00-intro.aux) (d:/git/DISERnew/01-observation.aux) (d:/git/DISERnew/02-methods.aux) (d:/git/DISERnew/03-qhd.aux) (d:/git/DISERnew/04-biharm.aux) (d:/git/DISERnew/99-Conclusion.aux) (d:/git/DISERnew/81-biblio.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 70.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 70.
 Package rerunfilecheck Info: File `rpz.out' has not changed.
-(rerunfilecheck)             Checksum: 3D05EB5A83B1C641B33FBEB320B2EAC5;8213.
+(rerunfilecheck)             Checksum: 8070C7A0D3D85CAADD2D5270AAB31E6D;10220.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -1986,23 +2199,23 @@ LaTeX Font Warning: Size substitutions with differences
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 
-LaTeX Warning: There were undefined references.
+LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 65.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 70.
  ) 
 Here is how much of TeX's memory you used:
- 44417 strings out of 480875
- 978299 string characters out of 5911456
- 2715009 words of memory out of 5000000
- 58602 multiletter control sequences out of 15000+600000
- 569875 words of font info for 139 fonts, out of 8000000 for 9000
+ 45138 strings out of 480875
+ 993179 string characters out of 5911456
+ 3012646 words of memory out of 5000000
+ 59015 multiletter control sequences out of 15000+600000
+ 570681 words of font info for 140 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 79i,20n,136p,5215b,2366s stack positions out of 5000i,500n,10000p,200000b,80000s
-{c:/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}{c:/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm2488.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfti1440.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sftt1440.pfb>
-Output written on d:/git/DISER/rpz.pdf (70 pages, 9683644 bytes).
+ 79i,20n,136p,5214b,2366s stack positions out of 5000i,500n,10000p,200000b,80000s
+{c:/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}{c:/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm2488.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfti1440.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sftt1440.pfb>
+Output written on d:/git/DISERnew/rpz.pdf (106 pages, 14947127 bytes).
 PDF statistics:
- 1198 PDF objects out of 1200 (max. 8388607)
- 991 compressed objects within 10 object streams
- 303 named destinations out of 1000 (max. 500000)
- 504 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1933 PDF objects out of 2073 (max. 8388607)
+ 1662 compressed objects within 17 object streams
+ 546 named destinations out of 1000 (max. 500000)
+ 656 words of extra memory for PDF output out of 10000 (max. 10000000)
 

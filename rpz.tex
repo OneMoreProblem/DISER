@@ -11,6 +11,8 @@
 \usepackage{mathtools}
 \usepackage{caption}
 \usepackage{subcaption}
+\usepackage{verbatim}
+
 
 \usepackage{pgfplots}
 \pgfplotsset{compat=newest}
@@ -45,17 +47,20 @@
 
 \tableofcontents
 
-\include{intro}
+\include{00-intro}
 % \include{intro.tex}
 %
 \mainmatter % это включает нумерацию глав и секций в документе ниже
 %
-\include{Theory}
-\include{Simulation}
+\include{01-observation}
+\include{02-methods}
+\include{03-qhd}
 %
 %\backmatter %% Здесь заканчивается нумерованная часть документа и начинаются ссылки и
 %            %% заключение
-\include{Conclusion}
+\include{04-biharm}
+
+\include{99-Conclusion}
 
 \include{81-biblio}
 %\include{81-biblio.tex}
